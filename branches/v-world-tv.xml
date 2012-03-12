@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <items>
   <item>
+    <title>VBS</title>
+    <info>Đài truyền hình VBS</info>
+    <link>rtmp://199.9.252.11/app playpath=jtv_3TAM4qVWoc5RcIAQ swfUrl=http://www-cdn.jtvnw.net/widgets/live_embed_player.rf262126f6f61291ce3824626777749570efab4bd.swf?channel=vbstvonline&referer=http://vbstelevision.com/&userAgent=Mozilla/5.0%20(Windows%20NT%206.1;%20WOW64;%20rv:10.0.2)%20Gecko/20100101%20Firefox/10.0.2&channel=vbstvonline pageUrl=http://vbstelevision.com/</link>
+    <thumbnail>http://vbstelevision.com/images/upload/Banner/vbs_logo_118x69.png</thumbnail>
+  </item>
+  <item>
     <title>Trẻ TV</title>
     <info>Trẻ TV</info>
     <link>mms://208.75.230.34//dong_sg</link>

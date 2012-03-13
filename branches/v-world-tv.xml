@@ -1,12 +1,6 @@
 <?xml version="1.0" ?>
 <items>
   <item>
-    <title>VBS</title>
-    <info>Đài truyền hình VBS</info>
-    <link>rtmp://199.9.252.11/app playpath=jtv_3TAM4qVWoc5RcIAQ swfUrl=http://www-cdn.jtvnw.net/widgets/live_embed_player.rf262126f6f61291ce3824626777749570efab4bd.swf?channel=vbstvonline&referer=http://vbstelevision.com/&userAgent=Mozilla/5.0%20(Windows%20NT%206.1;%20WOW64;%20rv:10.0.2)%20Gecko/20100101%20Firefox/10.0.2&channel=vbstvonline pageUrl=http://vbstelevision.com/</link>
-    <thumbnail>http://vbstelevision.com/images/upload/Banner/vbs_logo_118x69.png</thumbnail>
-  </item>
-  <item>
     <title>Trẻ TV</title>
     <info>Trẻ TV</info>
     <link>mms://208.75.230.34//dong_sg</link>
@@ -65,7 +59,7 @@
     <title>ABC Kids</title>
     <info>ABC Kids (English)</info>
     <link>http://www.abc.net.au/broadbandkids/wmp/20070521_1500/asx/player1hi.asx</link>
-    <thumbnail>http://doc-04-8g-3dwarehouse.googleusercontent.com/3dwarehouse/secure/hhulr73hmmak89paul31eote4ben7ngk/ifckhk8sga54j2r3fmrbqnr0j2eson70/1331186400000/lt/*/68a69daf3609c2ca2a20503dca820e2f?ts=1297470186000&ctyp=other</thumbnail>
+    <thumbnail>http://doc-04-8g-3dwarehouse.googleusercontent.com/3dwarehouse/secure/hhulr73hmmak89paul31eote4ben7ngk/ifckhk8sga54j2r3fmrbqnr0j2eson70/1331186400000/lt/*/68a69daf3609c2ca2a20503dca820e2f?ts=1297470186000&amp;ctyp=other</thumbnail>
   </item>
 
   <item>
@@ -363,7 +357,7 @@
   </item>
   <item>
     <title>MTV</title>
-    <link>rtmp://94.102.56.186/histream/televisamtv swfUrl=http://www.histream.tv/player.swf pageUrl=http://www.histream.tv/embedTele.php?file=televisamtv&width=650&height=500    live=true</link>
+    <link>rtmp://94.102.56.186/histream/televisamtv swfUrl=http://www.histream.tv/player.swf pageUrl=http://www.histream.tv/embedTele.php?file=televisamtv&amp;width=650&amp;height=500    live=true</link>
     <thumbnail>http://4.bp.blogspot.com/_wBa7Q-Vbuuc/TTWHCErY6iI/AAAAAAAAMC4/ggobwfHYX0M/s1600/MTV%2BLOGO%2BBW.JPG</thumbnail>
   </item>
   <item>

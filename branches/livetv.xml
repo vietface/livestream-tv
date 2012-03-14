@@ -71,7 +71,7 @@
             <item>
                 <title>+ US \ MSNBC (2)</title>
                 <link>rtmp://38.96.175.173:1935/live/00003@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00003@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00003@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://upload.wikimedia.org/wikipedia/en/5/50/MSNBC_Canada.png</thumbnail>
             </item>
@@ -155,7 +155,7 @@
             <item>
                 <title>+ US \ NBC 4</title>
                 <link>rtmp://38.96.175.173:1935/live/20013@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20013@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20013@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev9.png</thumbnail>
             </item>
@@ -231,7 +231,7 @@
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/velocity.jpg</thumbnail>
             </item>
             <item>
-                <title>+ US \ A&amp;E
+                <title>+ US \ A&E
                 </title>
                 <thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_east.png</thumbnail>
                 <link>rtmp://46.105.109.122/edge/ playpath=g1e7mba93z9x3zd
@@ -412,7 +412,7 @@
             <item>
                 <title>+ US \ FX</title>
                 <link>rtmp://38.96.175.173:1935/live/77774@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=77774@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=77774@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://www.lyngsat-logo.com/hires/ff/fx_us.png</thumbnail>
             </item>
@@ -447,7 +447,7 @@
             <item>
                 <title>+ US \ USA Network (2)</title>
                 <link>rtmp://38.96.175.173:1935/live/00000@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00000@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00000@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
             </item>
@@ -481,7 +481,7 @@
             <item>
                 <title>+ US \ Starz HD (2)</title>
                 <link>rtmp://38.96.175.173:1935/live/20012@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20012@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20012@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
             </item>
@@ -750,7 +750,7 @@
             <item>
                 <title>+ IT \ Italy TV</title>
                 <link>rtmp://fms.105.net:1935/live/italytv1
-                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/italytv/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/47.xml
+                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/italytv/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/47.xml
                     live=1
                 </link>
                 <thumbnail>
@@ -760,7 +760,7 @@
             <item>
                 <title>+ IT \ Radio 105 TV</title>
                 <link>rtmp://fms.105.net:1935/live/105Test1
-                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/105/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/5.xml
+                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/105/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/5.xml
                     live=1
                 </link>
                 <thumbnail>http://www.crozcast.com/images/logos/908de.jpg</thumbnail>
@@ -768,7 +768,7 @@
             <item>
                 <title>+ IT \ TOP 40</title>
                 <link>rtmp://fms.105.net:1935/live/charts1
-                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/charts/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/41.xml
+                    swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/charts/videoXML.xml&advXML=/com/universalmind/adsWizzConfig/41.xml
                     live=1
                 </link>
                 <thumbnail>http://www.crozcast.com/images/logos/3d19a.jpg</thumbnail>
@@ -855,7 +855,7 @@
             <item>
                 <title>+ US \ ESPN (3)</title>
                 <link>rtmp://38.96.175.173:1935/live/80001@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=80001@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=80001@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>
                     http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
@@ -1369,8 +1369,8 @@
             <item>
                 <title>+ US \ QVC</title>
                 <link>rtmp://110.164.253.191:1935/live?_fcs_vhost=cp40617.live.edgefcs.net playpath=qvc-lfs@912
-                    swfUrl="http://www.qvc.com/swf/hp_video_player2.swf?&amp;cookie=set"
-                    pageUrl="http://www.qvc.com/onair/liveshow.aspx?rewrite=no&amp;cookie=set" swfVfy=true live=true
+                    swfUrl="http://www.qvc.com/swf/hp_video_player2.swf?&cookie=set"
+                    pageUrl="http://www.qvc.com/onair/liveshow.aspx?rewrite=no&cookie=set" swfVfy=true live=true
                     timeout=60
                 </link>
                 <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm9.png</thumbnail>
@@ -1386,7 +1386,7 @@
             <item>
                 <title>+ US \ Buy Costumes TV</title>
                 <link>
-                    mms://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=
+                    mms://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&asx=433&entry=1&subitem=1&attempt=1&net=&LI_N=
                 </link>
                 <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
             </item>
@@ -1399,7 +1399,7 @@
                 <title>+ US \ Shop NBC</title>
                 <link>rtmp://shopnbc.fmsls.entriq.net:1935/live?ovpfv=1.1 playpath=live_01@13361
                     swfUrl="http://shopnbc.img.entriq.net/img/ShopNBCLivePlayer/main.swf?v=200811071300"
-                    pageUrl="http://www.shopnbc.com/onair/Default.aspx?view=watchuslive&amp;cm_re=GN-_-ONAIR-_-WATCHUSLIVE"
+                    pageUrl="http://www.shopnbc.com/onair/Default.aspx?view=watchuslive&cm_re=GN-_-ONAIR-_-WATCHUSLIVE"
                     swfVfy=true live=true timeout=60
                 </link>
                 <thumbnail>http://www.lyngsat-logo.com/hires/ss/shop_nbc.png</thumbnail>
@@ -1551,7 +1551,7 @@
             <item>
                 <title>+ US \ Playboy TV (soft)</title>
                 <link>rtmp://38.96.175.173:1935/live/00006@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf
-                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00006@hyqw&amp;vw=468&amp;vh=368 live=true
+                    pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00006@hyqw&vw=468&vh=368 live=true
                 </link>
                 <thumbnail>http://hivine.files.wordpress.com/2008/03/401px-red_ribbon_svg.png</thumbnail>
             </item>

@@ -62,8 +62,7 @@
         <info>ABC Kids (English)</info>
         <link>http://www.abc.net.au/broadbandkids/wmp/20070521_1500/asx/player1hi.asx</link>
         <thumbnail>
-            http://doc-04-8g-3dwarehouse.googleusercontent.com/3dwarehouse/secure/hhulr73hmmak89paul31eote4ben7ngk/ifckhk8sga54j2r3fmrbqnr0j2eson70/1331186400000/lt/*/68a69daf3609c2ca2a20503dca820e2f?ts=1297470186000
-            &ctyp=other
+            http://upload.wikimedia.org/wikipedia/en/thumb/c/c2/ABC_Kids_Logo.svg/200px-ABC_Kids_Logo.svg.png
         </thumbnail>
     </item>
     <item>
@@ -132,7 +131,7 @@
     <item>
         <title>VN_TRT 1 Thua Thien Hue</title>
         <link>rtmp://118.69.176.149/live/trt swfUrl=http://tv.xunghe.vn/player.swf
-            pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&xem=trt1-hue live=true timeout=30
+            pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&amp;xem=trt1-hue live=true timeout=30
         </link>
 
         <thumbnail>http://tv.xunghe.vn/images/logo/hue.gif</thumbnail>
@@ -140,7 +139,7 @@
     <item>
         <title>VN_VP Vinh Phuc</title>
         <link>rtmp://210.245.87.165/live/thvp swfUrl=http://tv.xunghe.vn/player.swf
-            pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&xem=vinh-phuc live=true timeout=30
+            pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&amp;xem=vinh-phuc live=true timeout=30
         </link>
         <thumbnail>http://tv.xunghe.vn/images/logo/vinhphuc.gif</thumbnail>
     </item>
@@ -743,7 +742,7 @@
     <item>
         <title>India_ZeeTV</title>
         <link>rtmp://c71.webcaston.com/live/channel/zeetvjnskjndd swfUrl=http://www.webcaston.com/player/player.swf
-            pageUrl=http://www.webcaston.com/embed.php?fileid=zeetvjnskjndd&vw=600&vh=480&domai
+            pageUrl=http://www.webcaston.com/embed.php?fileid=zeetvjnskjndd&amp;vw=600&amp;vh=480&amp;domai
             n=idesitv.com
         </link>
     </item>
@@ -779,7 +778,7 @@
     <item>
         <title>India_Star Gold</title>
         <link>rtmp://c51.webcaston.com/live/channel/stargoldmnsd3 swfUrl=http://www.webcaston.com/player/player.swf
-            pageUrl=http://www.webcaston.com/embed.php?fileid=stargoldmnsd3&vw=600&vh=480&domai
+            pageUrl=http://www.webcaston.com/embed.php?fileid=stargoldmnsd3&amp;vw=600&amp;vh=480&amp;domai
             n=idesitv.com
             swfVfy=true live=true
         </link>
@@ -835,7 +834,7 @@
     <item>
         <title>US_MTV</title>
         <link>rtmp://94.102.56.186/histream/televisamtv swfUrl=http://www.histream.tv/player.swf
-            pageUrl=http://www.histream.tv/embedTele.php?file=televisamtv&width=650&height=500 live=true
+            pageUrl=http://www.histream.tv/embedTele.php?file=televisamtv&amp;width=650&amp;height=500 live=true
         </link>
         <thumbnail>
             http://4.bp.blogspot.com/_wBa7Q-Vbuuc/TTWHCErY6iI/AAAAAAAAMC4/ggobwfHYX0M/s1600/MTV%2BLOGO%2BBW.JPG

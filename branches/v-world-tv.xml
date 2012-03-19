@@ -9,16 +9,17 @@
     <item>
         <title>US_SaigonTV</title>
         <info>Kênh Truyền Hình VN Hải Ngoại</info>
-        <link>rtmp://74.63.219.101:1935/sgtv/myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontivi.swf
-            pageUrl=http://www.saigontv.us//
+        <link>
+            rtmp://74.63.219.99:1935/sgtv playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontivi.swf
+            pageUrl=http://www.saigontv.us/
         </link>
         <thumbnail>http://balladtv.com/wp-content/uploads/2010/10/saigon-tv-logo-200x200.jpg</thumbnail>
     </item>
     <item>
         <title>US_Little Saigon TV \ -178d</title>
-        <link>rtmp://74.63.219.101:1935/lstv/myStream.sdp
-            swfUrl=http://littlesaigontv.net/lstv_includes/flash/littlesaigontv.swf
-            pageUrl=http://www.littlesaigontv.net/
+        <link>
+            rtmp://74.63.219.99:1935/lstv playpath=myStream.sdp swfUrl=http://vietpho.com/ext/js/3/mediaplayer.swf
+            pageUrl=http://vietpho.com/online-channels.php?id=2
         </link>
         <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/little_saigon_tv.jpg</thumbnail>
     </item>
@@ -30,8 +31,9 @@
     </item>
     <item>
         <title>US_GlobalTV</title>
-        <link>rtmp://74.63.219.101:1935/gbtv/myStream.sdp playpath=myStream.sdp
-            swfUrl=http://vietpho.com/globaltivi/globaltivi.swf pageUrl=http://globaltivi.com/ live=true
+        <link>
+            rtmp://74.63.219.99:1935/gbtv playpath=myStream.sdp swfUrl=http://vietpho.com/globaltivi/globaltivi.swf
+            pageUrl=http://globaltivi.com/ live=true
         </link>
 
         <thumbnail>http://globaltivi.com/assets/theme/default/css/img/logo_small.png</thumbnail>
@@ -52,7 +54,8 @@
     <item>
         <title>US_Vietface TV</title>
         <info>Kênh Truyền Hình VN Hải Ngoại</info>
-        <link>rtmp://74.63.219.101:1935/vftv/myStream.sdp swfUrl=http://vietpho.com/vftv/vftv.swf
+        <link>
+            rtmp://74.63.219.99:1935/vftv playpath=myStream.sdp swfUrl=http://vietfacetv.com/VFTV/vftv.swf
             pageUrl=http://vietfacetv.com/
         </link>
         <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viet_face_tv.jpg</thumbnail>

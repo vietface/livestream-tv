@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <items>
     <item>
+        <title>BYN TV</title>
+        <info>Broadcasting Youth Network</info>
+        <link>rtmp://media2.ttconsultantsllc.com:1935/livepkgr playpath=livestream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://byntv.com/Default.aspx?AspxAutoDetectCookieSupport=1 swfVfy=true live=true timeout=60</link>
+        <thumbnail>http://byntv.com/images/logo/byndragon300w.png</thumbnail>
+    </item>
+    <item>
         <title>Trẻ TV</title>
         <info>Trẻ TV</info>
         <link>mms://208.75.230.34//dong_sg</link>

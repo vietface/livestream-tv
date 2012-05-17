@@ -1,1415 +1,1234 @@
 <?xml version="1.0" ?>
 <channels>
-    <channel>
-        <name>News Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ Bloomberg</title>
-                <link>rtmp://media2.lsops.net/live/ playpath=bloomber_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=6</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm6.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ BBC News</title>
-                <link>rtmp://media2.lsops.net/live/ playpath=bbcnews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlx.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ BBC World News</title>
-                <link>rtmp://media2.lsops.net/live/ playpath=bbcworld1_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlj.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky News Headlines</title>
-                <link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlp.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky News HD</title>
-                <link>rtmp://s7.webport.tv/live playpath=z050227.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
-                <thumbnail>http://futubox.com/system/icon_ds/59/original/ski_news_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ CNN International
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/xx/xm_cnn.png</thumbnail>
-                <link>rtmp://a.cdn.msnbclive.eu/edge/cnn_uza playpath=cnn_uza swfurl=http://www.rentadrone.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageurl=http://www.rentadrone.tv/CNN</link>
-            </item>
-            <item>
-                <title>+ US \ CNN US</title>
-                <link>rtmp://176.31.231.57/edge/z2pcigjdww668bl swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/18669/CNN tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://maxviewmedia.com/CP/cnn.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ CNBC</title>
-                <link>rtmp://38.96.175.173:1935/live/ playpath=00003@hyqw swfUrl=http://veohcast.tv/veohcast.tv.swf pageUrl=http://www.veohcast.tv/veohV.php?n=00003@hyqw</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjlz.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ MSNBC (1)</title>
-                <link>rtmp://d.cdn.msnbclive.eu/edge playpath=msnbc_live swfUrl=http://www.rentadrone.org/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.rentadrone.org/msnbc-live-rockinroosters/ swfVfy=true live=true</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/mm/msnbc.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ MSNBC (2)</title>
-                <link>rtmp://38.96.175.173:1935/live/00003@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00003@hyqw&amp;vw=468&amp;vh=368 live=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/5/50/MSNBC_Canada.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ FOX News</title>
-                <link>rtmp://176.31.231.57/edge/4tc63z84u1gx6yu swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/158918Fox_News tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://images4.wikia.nocookie.net/__cb20110228235924/foxnews/images/7/7c/150px-Fox_News_Channel_logo.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ EuroNews</title>
-                <link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ee/euronews.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ DW-TV (Deutsche Welle)</title>
-                <link>rtmp://media2.lsops.net/dwtv2/ playpath=13010dwtveu364.flv swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://images-mediawiki-sites.thefullwiki.org/06/1/3/7/7858726340996688.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Aljazeer</title>
-                <link>rtmp://media2.lsops.net/live/ playpath=aljazeer_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/66-cnn-international" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://images-mediawiki-sites.thefullwiki.org/06/3/8/5/49335622203183361.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ C-SPAN</title>
-                <link>rtmp://cp82346.live.edgefcs.net:1935/live playpath=CSPAN1@14845 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN/" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ C-SPAN 2</title>
-                <link>rtmp://cp82347.live.edgefcs.net:1935/live playpath=CSPAN2@14846 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN2/" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan2.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ C-SPAN 3</title>
-                <link>rtmp://cp82348.live.edgefcs.net:1935/live playpath=CSPAN3@14847 swfUrl="http://www.c-span.org/cspanVideoHD.swf" pageURL="http://www.c-span.org/Live-Video/C-SPAN3/" swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/cc/cspan3.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Network / Local Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ ABC East</title>
-                <link>rtmp://176.31.231.57/edge/tve1lkzlj5vqz83 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/11089/ABC tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://images.wikia.com/headhuntersholosuite/images/3/3b/ABC_logo.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ NBC East</title>
-                <link>rtmp://176.31.231.57/edge/l35yknl7nqtyit9 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/3809/NBC tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev9.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ NBC 4</title>
-                <link>rtmp://38.96.175.173:1935/live/20013@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20013@hyqw&amp;vw=468&amp;vh=368 live=true</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev9.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ CBS (WTSP) East</title>
-                <link>rtmp://176.31.231.57/edge/4v86uid0s554wa9 swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/16634/CBS tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/cc/cbs.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ The CW</title>
-                <link>rtmp://176.31.231.57/edge/t72p9s7c47vsrc4 swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/view/24791/ tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/sr/thumb/4/4c/The_CW.svg/800px-The_CW.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Fox 11 (KTTV)
-                </title>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev7.png</thumbnail>
-                <link>rtmp://38.96.175.173:1935/live/00001@hyqw playpath=00001@hyqw swfUrl=http://www.veohcast.tv/veohcast.tv.swf live=1 pageUrl=http://www.veohcast.tv
-                </link>
-            </item>
-            <item>
-                <title>+ UK \ BBC One / CBBC</title>
-                <link>rtmp://46.105.106.60/sp22/authenticated//sp22/authenticated/ playpath=sp22/sp22 app=sp22/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp22/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://minicooer.com/images/800px-BBC_One_logo.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IE \ RTE One</title>
-                <link>rtmp://fmsod.rte.ie/live/rte1 swfUrl=http://www.rte.ie/player/assets/player_454.swf pageUrl=http://http://www.rte.ie/player/#l=7 swfVfy=true live=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/2/26/RTE_One_logo.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IE \ RTE Two</title>
-                <link>rtmp://fmsod.rte.ie/live/rte2 swfUrl=http://www.rte.ie/player/assets/player_454.swf pageUrl=http://http://www.rte.ie/player/#l=7 swfVfy=true live=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/b/b0/RTE_Two_logo.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ FOX 13 (1)</title>
-                <link>rtmp://cp26153.live.edgefcs.net/live/wtvt_flash_4@55893 playpath=wtvt_flash_4@55893 swfUrl=http://www.shadownet.ro/webplayer/player1.swf live=1</link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ FOX 13 (2)</title>
-                <link>rtmp://176.31.231.57/edge/65kvctkpqi0nsl6 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/16552/Fox_Networks tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdev7.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Documentary Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ Velocity HD</title>
-                <link>rtmp://fms3.tikilive.com:1935/view/25503_122/stream25503 live=true timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/velocity.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ A&amp;E
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/aa/ae_east.png</thumbnail>
-                <link>rtmp://46.105.109.122/edge/ playpath=g1e7mba93z9x3zd swfurl=http://cdn.static.ilive.to/jwplayer/player_new.swf pageurl=http://www.ilive.to/AE</link>
-            </item>
-            <item>
-                <title>+ UK \ Bio HD</title>
-                <link>rtmp://tv.tvsector.com/live/z020204.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/bio-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/172/original/biohd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Discovery Channel</title>
-                <link>rtmp://176.31.231.57/edge/8ooa2sbg4a2zs43 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15911/Discovery tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevk.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Discovery Channel Eurpe</title>
-                <link>rtsp://122.160.220.49:1935/live/DISCOVERYCHANNEL_HVGA.sdp</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevk.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Discovery Science Eurpe</title>
-                <link>rtsp://122.160.220.49:1935/live/DISCOVERYSCIENCE_HVGA.sdp</link>
-                <thumbnail>http://images2.wikia.nocookie.net/__cb20091127165410/logopedia/images/thumb/c/c6/Discovery_Science.svg/180px-Discovery_Science.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Discovery Turbo Eurpe</title>
-                <link>rtsp://122.160.220.49:1935/live/DISCOVERYTURBO_HVGA.sdp</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/dd/discovery_turbo_uk.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ TLC Europe</title>
-                <link>rtsp://122.160.220.49:1935/live/TLC_HVGA.sdp</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqrzz.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Animal Planet Europe</title>
-                <link>rtsp://122.160.220.49:1935/live/ANIMALPLANET_HVGA.sdp</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Animal_Planet_US_logo.svg/170px-Animal_Planet_US_logo.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Animal Planet HD</title>
-                <link>rtmp://tv.tvsector.com/live/z050001.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/animal-planet-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/32/original/animal_planet.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ National Geographic HD</title>
-                <link>rtmp://tv.tvsector.com/live playpath=z050203.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/national-geographic-nat-geo-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/211/original/natgeohd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Nat Geo Wild HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z050204.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl="http://www.tvsector.com/national-geographic-nat-geo-hd/" timeout=60</link>
-                <thumbnail>http://futubox.com/system/icon_ds/44/original/Natgeowild.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ History Channel</title>
-                <link>rtmp://176.31.231.57/edge/azk6xj9d4hcaamo swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15913/History_channel tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevl.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ History Channel HD</title>
-                <link>rtmp://tv.tvsector.com/live playpath=z050003.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/history-channel-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/118/original/history.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Entertainment Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ ABC Family</title>
-                <link>rtmp://176.31.231.57/edge/g4cqej4148shw4e swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/17555/ tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://images4.wikia.nocookie.net/__cb20091109171459/logopedia/images/thumb/2/2e/ABC_Family.svg/300px-ABC_Family.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ BBC HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z010201.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl="http://www.tvsector.com/bbc-hd/"</link>
-                <thumbnail>http://futubox.com/system/icon_ds/223/original/bbc.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ITV 1</title>
-                <link>rtmp://46.105.106.60/sp23/authenticated//sp23/authenticated/ playpath=sp23/sp23 app=sp23/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp23/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://images2.wikia.nocookie.net/__cb20110916184637/logopedia/images/5/55/250px-ITV1.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ITV 2 HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z020102.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/itv2-hd/</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/3c/ITV2_HD.svg/278px-ITV2_HD.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ITV 3 HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z020103.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/itv3-hd/</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/e/ef/ITV3_HD.svg/220px-ITV3_HD.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY One (SKY Go edit)</title>
-                <link>rtmp://46.105.106.60/sp24/authenticated//sp24/authenticated/ playpath=sp24/sp24 app=sp24/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp24/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://images.wikia.com/lostpedia/images/9/93/800px-SKYONE.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Art (SKY Go edit)</title>
-                <link>rtmp://46.105.106.60/sp26/authenticated//sp26/authenticated/ playpath=sp26/sp26 app=sp26/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp26/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://images.wikia.com/logopedia/images/7/70/Sky_Arts_logo_2007.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Atlantic (Sky Go edit)</title>
-                <link>rtmp://46.105.106.60/sp25/authenticated//sp25/authenticated/ playpath=sp25/sp25 app=sp25/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp25/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://images1.wikia.nocookie.net/__cb20110124174045/logopedia/images/d/de/Sky_Atlantic_2011.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ TNT</title>
-                <link>rtmp://176.31.231.57/edge/c7lwow665qhv11r swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15908/TNT_movie tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ FX</title>
-                <link>rtmp://38.96.175.173:1935/live/77774@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=77774@hyqw&amp;vw=468&amp;vh=368 live=true</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ff/fx_us.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ SyFy</title>
-                <link>rtmp://176.31.231.57/edge/vo738uvzb1fp5mk swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/158/ tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdevn.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Spike</title>
-                <link>rtmp://46.105.115.183/edge/cw4ess57se29nfb swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/ autoplay=true</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ss/spike_tv.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Tru TV</title>
-                <link>rtmp://176.31.231.57/edge/eqsqh9245ydfea1 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/157/TruTV tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/tt/tru_tv.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ USA Network (1)</title>
-                <link>rtmp://176.31.231.57/edge/f0v1m4mxu9prq8i swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15761/USA_Networks tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ USA Network (2)</title>
-                <link>rtmp://38.96.175.173:1935/live/00000@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00000@hyqw&amp;vw=468&amp;vh=368 live=true</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Comedy Central HD</title>
-                <link>rtmp://tv.tvsector.com/live/z020503.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/3/34/Comedy_Central_UK.svg/404px-Comedy_Central_UK.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Comedy Net</title>
-                <thumbnail>http://lazrojas.com/comedynetLogo.jpg</thumbnail>
-                <link>rtmp://live127.origin.la3.filmon.com:1935/live/_definst_/ playpath=497.high.stream live=true/Comedy Net</link>
-            </item>
-            <item>
-                <title>+ UK \ Starz HD (1)</title>
-                <link>rtmp://38.96.175.173:1935/live/20012@hyqw swfUrl=http://veohcast.tv/veohcast.tv.swf pageUrl=http://www.veohcast.tv/veohV.php?n=20012@hyqw tcUrl=rtmp://38.96.175.173:1935/live</link>
-                <thumbnail>http://images3.wikia.nocookie.net/__cb20091113221234/logopedia/images/thumb/f/f0/Starz_logo.svg/200px-Starz_logo.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Starz HD (2)</title>
-                <link>rtmp://38.96.175.173:1935/live/20012@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=20012@hyqw&amp;vw=468&amp;vh=368 live=true</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/uu/usa_network.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ The Sitcom Channel</title>
-                <link>mms://195.90.118.87/verytangytvsitcom_1</link>
-                <thumbnail>http://2.bp.blogspot.com/-4entU7mafjE/TlabR7b9S_I/AAAAAAAACmQ/EKchIasocJc/s1600/600px-Yin_and_Yang.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Food Network</title>
-                <link>rtmp://176.31.231.57/edge/7pb51t4nqxrmubw playpath=7pb51t4nqxrmubw swfurl=http://static.ilive.to/jwplayer/player.swf pageurl=http://www.ilive.to/Food</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ff/food_network_us.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ TVSCUBA</title>
-                <link>mms://195.90.118.93/tvscuba_sched1</link>
-                <thumbnail>http://admin.globaldigitalbroadcast.com/tvscuba/images/client/000037/medium.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Cartoon Network</title>
-                <link>rtmp://95.211.168.21:1936/streami playpath=streamcandyiestop-jnwf pageUrl=http://streami.tv/embed/e2.php live=1 swfUrl=http://streami.tv/files/fp/flowplayer.rtmp-3.2.3.swf timeout=60 live=true swfVfy=true</link>
-                <thumbnail>http://images1.wikia.nocookie.net/__cb20110605201752/totaldramaisland/images/f/f6/800px-CARTOON_NETWORK_logo.svg-1-.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Nickelodeon (1)</title>
-                <link>rtmp://95.211.168.21:1936/streami playpath=streamprivacyhaty-jpex pageUrl=http://streami.tv/embed/e2.php live=1 swfUrl=http://streami.tv/files/fp/flowplayer.rtmp-3.2.3.swf timeout=60 live=true swfVfy=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Nickelodeon (2)</title>
-                <link>rtmp://176.31.231.57/edge/z2p8gdk9lvry48x swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15908/Nickelodeon tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/commons/c/c0/Nickelodeon.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Disney XD HD</title>
-                <link>rtmp://tv.tvsector.com/live/z020101.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/disney-xd-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://images2.wikia.nocookie.net/__cb20091006155925/disney/images/thumb/2/2b/Disney_XD_logo.svg/800px-Disney_XD_logo.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Welcome Back Kotter 24/7</title>
-                <link>rtmp://176.31.231.57/edge/n1rnm3riyw6fqtg swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/those_70s_show tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://static.ilive.to/images/channels/36d9ff4ac57a187cd8b6c7a26f38c4b7.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Friends 24/7</title>
-                <link>rtmp://176.31.231.57/edge/cj73er6wz96sjtk swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/3818/Friends_show tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://static.ilive.to/images/channels/bb204a39d651570e260704be20635078.jpg</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Movie Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ UK \ HBO HD</title>
-                <link>rtmp://tv.tvsector.com/live/z010402.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/hbo-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/99/original/hbo_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ HBO2 HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z010701.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/hbo2-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/163/original/hbo_2hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ HBO HITS</title>
-                <link>rtmp://176.31.231.57/edge/t4zy8qr4yeut5uq swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/15761/HBO_Hits tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://images1.wikia.nocookie.net/__cb20100511073405/logopedia/images/thumb/0/04/HBO_HiTS.svg/627px-HBO_HiTS.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies 1</title>
-                <link>rtmp://46.105.106.60/sp27/authenticated//sp27/authenticated/ playpath=sp27/sp27 app=sp27/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp27/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/200px-Sky_Movies.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies 2</title>
-                <link>rtmp://46.105.106.60/sp28/authenticated//sp28/authenticated/ playpath=sp28/sp28 app=sp28/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp28/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true</link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Sky_Movies.svg/200px-Sky_Movies.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies (Comedy) HD</title>
-                <link>rtmp://tv.tvsector.com/live/z050231.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/180/original/sky_comedy.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies (Drama Rom) HD</title>
-                <link>rtmp://tv.tvsector.com/live/z050229.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/178/original/sky_drama_romance.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies (Modern Greets) HD</title>
-                <link>rtmp://tv.tvsector.com/live/z050228.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/177/original/sky_modern_greats.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Movies (SciFi / Horror) HD</title>
-                <link>rtmp://tv.tvsector.com/live/z050230.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://futubox.com/system/icon_ds/179/original/sky_scifi_horror.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ FILM HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z050230.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl="http://www.tvsector.com/film-hd/"</link>
-                <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Barnstar_film_2.svg/323px-Barnstar_film_2.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ HD Movie Channel 1</title>
-                <link>rtmp://176.31.231.57/edge/b0vlexgcfalvrc0 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/12793/The_HD_movie_channel_1 tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://static.ilive.to/images/channels/161c246cf0c9a1f9553cb4c1faf04677.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ HD Movie Channel 2</title>
-                <link>rtmp://176.31.231.57/edge/n8hcb32mz99u11j swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/12793/The_HD_movie_channel_1 tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://static.ilive.to/images/channels/161c246cf0c9a1f9553cb4c1faf04677.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Classic Movies</title>
-                <link>rtmp://176.31.231.57/edge/6go7csop9tg5dvj swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/14036/Classic_Movies tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://static.ilive.to/images/channels/0804f5c3105feb2271ed496bccfe0c0d.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Cinemax HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z050221.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/cinemax-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/164/original/cinemax_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Cinemax 2 HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z010401.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/cinemax-2-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/165/original/cinemax2_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ MGM HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z020401.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/mgm-hd/</link>
-                <thumbnail>http://futubox.com/system/icon_ds/194/original/mgm.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Classic Movies 1</title>
-                <link>mms://195.90.118.87/classicmovies_1</link>
-                <thumbnail>http://images-5.findicons.com/files/icons/1780/black_and_orange/300/my_movies_orange.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Classic Movies 2</title>
-                <link>mms://195.90.118.87/classicmovies_2</link>
-                <thumbnail>http://images-5.findicons.com/files/icons/1780/black_and_orange/300/my_movies_orange.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Music Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ MTV</title>
-                <link>rtmp://176.31.231.57/edge/7gd0klihpn1y2nr swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/18823/Music_Television tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
-                <thumbnail>http://nickreynoldson.files.wordpress.com/2010/08/470px-mtv_canada_logo-svg.png?w=490</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ MTV Live HD</title>
-                <link>rtmp://tv.tvsector.com/live/z010001.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/mtvlive-hd tcUrl=rtmp://tv.tvsector.com/live</link>
-                <thumbnail>http://images3.wikia.nocookie.net/__cb20111123235143/logopedia/images/thumb/e/e8/MTV_Live_HD.svg/200px-MTV_Live_HD.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ The Country Network
-                </title>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Wmsn_dt3.png/150px-Wmsn_dt3.png</thumbnail>
-                <link>rtmp://82.166.201.223/live?_fcs_vhost=cp76676.live.edgefcs.net/5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 playpath=5uMjNmMjqqV2tI5_ZzsUtHcPRTSQiUli_640_480_600@54976 swfurl=http://player.ooyala.com/static/cacheable/4da23032782e072c77aa3f26ab6dbbbb/player_v2.swf live=1 pageurl=http://tcncountry.com/The Country Network</link>
-            </item>
-            <item>
-                <title>+ DE \ Deluxemusic TV</title>
-                <link>rtmp://flash.cdn.deluxemusic.tv/deluxemusic.tv-live/web_850 swfVfy=http://static.staging.deluxemusic.tv.dl1.ipercast.net/theme/deluxemusic.tv/flash/player.swf live=1</link>
-                <thumbnail>http://www.vilaboadegoias.com.br/tvnet/deluxe_music_logo%5B1%5D.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IT \ Italy TV</title>
-                <link>rtmp://fms.105.net:1935/live/italytv1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/italytv/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/47.xml live=1</link>
-                <thumbnail>http://www.webtvgo.com/List%20of%20countries%20by%20continent%20-%20webtv_files/50px-Flag_of_Italy.svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IT \ Radio 105 TV</title>
-                <link>rtmp://fms.105.net:1935/live/105Test1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/105/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/5.xml live=1</link>
-                <thumbnail>http://www.crozcast.com/images/logos/908de.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ IT \ TOP 40</title>
-                <link>rtmp://fms.105.net:1935/live/charts1 swfVfy=http://video.105.net/com/universalmind/swf/videoPlayerAdsWizz01.swf?xmlPath=/com/universalmind/tv/charts/videoXML.xml&amp;advXML=/com/universalmind/adsWizzConfig/41.xml live=1</link>
-                <thumbnail>http://www.crozcast.com/images/logos/3d19a.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ IT \ Virgin Radio TV</title>
-                <link>rtmp://fms.105.net:1935/live/virgin1 swfVfy=http://video.virginradioitaly.it/com/universalmind/swf/videoPlayerTV.swf?xmlPath=http://video.virginradioitaly.it/com/universalmind/tv/virgin/videoXML.xml live=1</link>
-                <thumbnail>http://video.virginradioitaly.it/images/virgin/VirginRadioVideo.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IT \ Kiss TV</title>
-                <link>rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/live swfVfy=http://kisstelevision.en-directo.com/kisstelevision_avw.swf live=1</link>
-                <thumbnail>http://beautybanter.com/wp-content/uploads/image-import/_K5P46qGHCkU/STeTkrGgbaI/AAAAAAAADP0/MlP7KFZOqH0/s1600-h/1194984767166001706red_lips_01.svg.hi.png</thumbnail>
-            </item>
-            <item>
-                <title>+ HU \ Dance TV</title>
-                <link>mmsh://dancetv.dyndns.org/dancetv</link>
-                <thumbnail>http://www.tv-box.ro/wp-content/uploads/dancetv.png</thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ ONE HD</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=onehd swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=</link>
-                <thumbnail>http://blogs.crikey.com.au/whitenoise/files/2011/04/one-hd.jpeg</thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ ONE Jazz HD</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=jazz swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=</link>
-                <thumbnail></thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ ONE Classic HD</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=classic swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=
-                </link>
-                <thumbnail></thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ ONE Dance HD</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=dance swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=
-                </link>
-                <thumbnail></thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ ONE Rock HD</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=rock swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=</link>
-                <thumbnail></thumbnail>
-            </item>
-            <item>
-                <title>+ RO \ HD suisse</title>
-                <link>rtmp://93.114.43.3:1935/live playpath=pop swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=</link>
-                <thumbnail></thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Sports Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ ESPN (1)</title>
-                <link>rtmp://38.96.175.173:1935/live/ playpath=80001@hyqw swfUrl=http://www.veohcast.tv/veohcast.tv.swf pageUrl=http://www.veohcast.tv/veohV.php?n=99998@hyqw
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN (2)</title>
-                <link>rtmp://176.31.231.57/edge/wu6juf6ctdnqpgi swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/16619/ESPN tcUrl=rtmp://176.31.231.57/edge timeout=60
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN (3)</title>
-                <link>rtmp://38.96.175.173:1935/live/80001@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=80001@hyqw&amp;vw=468&amp;vh=368 live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN (4)</title>
-                <link>rtmp://46.105.106.60/fss7/protected//fss7/protected/ playpath=fss7/vip7/protected/ app=fss7/protected/ pageURL=http://www.flashsportstreams.tv/forum/view.php?pg=vip7 tcURL=rtmp://46.105.106.60/fss7/protected/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN2 (1)</title>
-                <link>rtmp://46.105.106.60/fss8/protected//fss8/protected/ playpath=fss8/vip8/protected/ app=fss8/protected/ pageURL=http://www.flashsportstreams.tv/forum/view.php?pg=vip8 tcURL=rtmp://46.105.106.60/fss8/protected/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://1.bp.blogspot.com/_IvgVZSr-GBs/TMDdzE0IVgI/AAAAAAAACKQ/b10pOlRTgLs/s1600/1000px-ESPN2_logo.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN 2 (2)</title>
-                <link>rtmp://176.31.231.57/edge/jm04j5tp6ancm52 swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/16619/ESPN_2 tcUrl=rtmp://176.31.231.57/edge timeout=60
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ee/espn2.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ ESPN U</title>
-                <link>rtmp://46.105.106.60/fss9/protected//fss9/protected/ playpath=fss9/vip9/protected/ app=fss9/protected/ pageURL=http://www.flashsportstreams.tv/forum/view.php?pg=vip9 tcURL=rtmp://46.105.106.60/fss9/protected/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://images2.wikia.nocookie.net/__cb20100501062815/logopedia/images/thumb/e/ed/ESPN_U.svg/379px-ESPN_U.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ESPN America HD</title>
-                <link>rtmp://tv.tvsector.com/live playpath=z050201.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/espn-america-hd/
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/185/original/espn.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ESPN</title>
-                <link>rtmp://46.105.106.60/sp6/authenticated//sp6/authenticated/ playpath=sp6/sp6 app=sp6/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp6/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Fox Soccer</title>
-                <link>rtmp://46.105.106.60/fss15/authenticated//fss15/authenticated/ playpath=fss15/vip15 app=fss15/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/fss15/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://ilpvfx.com/wp-content/uploads/2011/11/foxSoccer_logoReveal_RAW_MASTER_main.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Fox Soccer Plus</title>
-                <link>rtmp://46.105.106.60/fss16/authenticated//fss16/authenticated/ playpath=fss16/vip16 app=fss16/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/fss16/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://www.epltalk.com/media/2010/01/fox-soccer-plus.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ SPEED Channel</title>
-                <link>rtmp://176.31.231.57/edge/6i149337we7wsrw swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/16619/SPEED tcUrl=rtmp://176.31.231.57/edge timeout=60
-                </link>
-                <thumbnail>
-                    http://images3.wikia.nocookie.net/__cb20100329171538/logopedia/images/thumb/d/d1/Speed_Channel.svg/494px-Speed_Channel.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ NBC Sports Network</title>
-                <link>rtmp://176.31.231.57/edge/98jlmhfkbhc5o07 swfUrl=http://static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/18843/VH_1 tcUrl=rtmp://176.31.231.57/edge timeout=60
-                </link>
-                <thumbnail>http://www.majorleaguesoccertalk.com/media/2011/08/200px-NBC_Sports_svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ MotorsTV</title>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisamotorstv pageUrl=http://www.histream.tv/ live=1 swfUrl=http://www.histream.tv/player.swf
-                </link>
-                <thumbnail>
-                    http://images2.wikia.nocookie.net/__cb20100330070519/logopedia/images/thumb/8/8e/Motors_TV.svg/640px-Motors_TV.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Eurosport HD</title>
-                <link>rtmp://tv.tvsector.com/live/z010601.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/eurosport-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/30/original/eurosport_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Eurosport 2 HD</title>
-                <link>rtmp://s6.webport.tv/live/ playpath=z010301.stream swfUrl="http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf" pageUrl=http://www.tvsector.com/eurosport2-hd/
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/167/original/eurosport2hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Eurosport (Not always online)</title>
-                <link>rtmp://176.31.231.57/edge/o1v4sypkby5roz8 swfUrl=http://cdn.static.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/91100/Eurosport tcUrl=rtmp://176.31.231.57/edge timeout=60
-                </link>
-                <thumbnail>
-                    http://images1.wikia.nocookie.net/__cb20110120170324/logopedia/images/thumb/c/cb/Eurosport_logo_2011.svg/486px-Eurosport_logo_2011.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Brittish Eurosport</title>
-                <link>rtmp://46.105.106.60/sp17/authenticated//sp17/authenticated/ playpath=sp17/sp17 app=sp17/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp17/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://images4.wikia.nocookie.net/__cb20100227145418/logopedia/images/thumb/7/79/British_Eurosport.svg/378px-British_Eurosport.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ British Eurosport 2</title>
-                <link>rtmp://46.105.106.60/sp18/authenticated//sp18/authenticated/ playpath=sp18/sp18 app=sp18/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp18/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/en/thumb/2/27/Eurosport_2.svg/220px-Eurosport_2.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ AU \ Satanta Sports</title>
-                <link>rtmp://46.105.106.60/sp11/authenticated//sp11/authenticated/ playpath=sp11/sp11 app=sp11/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp11/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png</thumbnail>
-            </item>
-            <item>
-                <title>+ IE \ Setanta Sports</title>
-                <link>rtmp://46.105.106.60/sp13/authenticated//sp13/authenticated/ playpath=sp13/sp13 app=sp13/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp13/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png</thumbnail>
-            </item>
-            <item>
-                <title>+ CA \ Satanta Sports</title>
-                <link>rtmp://46.105.106.60/sp10/authenticated//sp10/authenticated/ playpath=sp10/sp10 app=sp10/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp10/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/fr/2/29/Logo_Setanta_Sports.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SportsNet World</title>
-                <link>rtmp://46.105.106.60/sp10/authenticated//sp10/authenticated/ playpath=sp10/sp10 app=sp10/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp10/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ss/sportsnet_world.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ AtTheRaces</title>
-                <link>rtmp://46.105.106.60/sp19/authenticated//sp19/authenticated/ playpath=sp19/sp19 app=sp19/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp19/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://www.skymedia.co.uk/_downloads/206/At%20The%20Races.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Racing UK</title>
-                <link>rtmp://46.105.106.60/sp20/authenticated//sp20/authenticated/ playpath=sp20/sp20 app=sp20/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp20/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://hayleyturner.com/wp-content/uploads/2011/09/Racing-UK-Logo.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 1</title>
-                <link>rtmp://46.105.106.60/sp1/authenticated//sp1/authenticated/ playpath=sp1/sp1 app=sp1/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp1/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports1.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 2</title>
-                <link>rtmp://46.105.106.60/sp2/authenticated//sp2/authenticated/ playpath=sp2/sp2 app=sp2/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp2/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports2.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 3</title>
-                <link>rtmp://46.105.106.60/sp3/authenticated//sp3/authenticated/ playpath=sp3/sp3 app=sp3/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp3/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports3.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 4</title>
-                <link>rtmp://46.105.106.60/sp4/authenticated//sp4/authenticated/ playpath=sp4/sp4 app=sp4/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp4/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports4.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky Sports HD1</title>
-                <link>rtmp://tv.tvsector.com/live/z050226.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/eurosport-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>
-                    http://t0.gstatic.com/images?q=tbn:ANd9GcQGX0zMergKL64xtN6Ud0uxkSoMf7G53kfsdL6gIOWYx2ye4urdq3Q727U
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky Sports News</title>
-                <link>rtmp://46.105.106.60/sp5/authenticated//sp5/authenticated/ playpath=sp5/sp5 app=sp5/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://46.105.106.60/sp5/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://images4.wikia.nocookie.net/__cb20100803180938/logopedia/images/archive/a/a9/20110210125029!Sky_Sports_News_2010.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports News HD</title>
-                <link>rtmp://159.253.131.73/liverepeater playpath=vippytv_2997 swfUrl=http://173.224.119.185/~sosshare/player/player.swf pageUrl=http://surk.tv/embebed.php?id=vippytv_2997 timeout=60
-                </link>
-                <thumbnail>
-                    http://images4.wikia.nocookie.net/__cb20100803180938/logopedia/images/archive/a/a9/20110210125029!Sky_Sports_News_2010.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky Poker</title>
-                <link>rtmp://cp67698.live.edgefcs.net/live/SkyPoker_500k@9124 app=live pageUrl=http://www.estadio.in/skypoker swfUrl=http://www.estadio.in/player.swf tcUrl=rtmp://cp67698.live.edgefcs.net/live playPath=SkyPoker_500k@9124 swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8h5nr8.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 1</title>
-                <link>rtmp://46.105.109.158/channel1 playpath=lovschan1 app=channel1 pageURL=http://www.liveonlinefooty.com/watchlive/channel1.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/313px-Soccerball.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 2</title>
-                <link>rtmp://176.31.231.163/channel2 playpath=lovschan2 app=channel2 pageURL=http://www.liveonlinefooty.com/watchlive/channel2.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/313px-Soccerball.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 3</title>
-                <link>rtmp://46.105.115.115/channel3 playpath=lovschan3 app=channel3 pageURL=http://www.liveonlinefooty.com/watchlive/channel3.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Soccerball.svg/313px-Soccerball.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 4</title>
-                <link>rtmp://46.105.115.114/channel4 playpath=lovschan4 app=channel4 pageURL=http://www.liveonlinefooty.com/watchlive/channel4.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 5</title>
-                <link>rtmp://31.204.128.46/channel5 playpath=lovschan5 app=channel5 pageURL=http://www.liveonlinefooty.com/watchlive/channel5.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 6</title>
-                <link>rtmp://178.33.123.3/channel6 playpath=lovschan6 app=channel6 pageURL=http://www.liveonlinefooty.com/watchlive/channel6.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 7</title>
-                <link>rtmp://46.105.115.107/channel7 playpath=lovschan7 app=channel7 pageURL=http://www.liveonlinefooty.com/watchlive/channel7.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 8</title>
-                <link>rtmp://178.33.123.3/channel8 playpath=lovschan8 app=channel8 pageURL=http://www.liveonlinefooty.com/watchlive/channel8.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Soccer TV 9</title>
-                <link>rtmp://46.105.115.115/channel9 playpath=lovschan9 app=channel9 pageURL=http://www.liveonlinefooty.com/watchlive/channel9.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Premium Racing TV</title>
-                <link>rtmp://46.105.115.115/channel10 playpath=lovschan10 app=channel10 pageURL=http://www.liveonlinefooty.com/watchlive/channel10.php swfUrl=http://www.livesporton.net/player2.swf live=true
-                </link>
-                <thumbnail>http://www.clker.com/cliparts/8/b/0/8/121998884048761793motor%20racing%20flags.svg.med.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ChelseaTV</title>
-                <link>rtmp://cp96798.live.edgefcs.net/live/ playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.tv-stream.to/player.swf live=1 pageUrl=http://www.lagerassassin.eu/sport-stream/1/2650.html timeout=60
-                </link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/lb/8/8f/Chelsea_crest_svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 1 (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp1/authenticated//sp1/authenticated/ playpath=sp1/sp1 app=sp1/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp1/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports1.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 2 (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp2/authenticated//sp2/authenticated/ playpath=sp2/sp2 app=sp2/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp2/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports2.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 3 (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp3/authenticated//sp3/authenticated/ playpath=sp3/sp3 app=sp3/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp3/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports3.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ SKY Sports 4 (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp4/authenticated//sp4/authenticated/ playpath=sp4/sp4 app=sp4/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp4/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>http://channelspk.tk/ad1/logo/sky_sports4.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Sky Sports News (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp5/authenticated//sp5/authenticated/ playpath=sp5/sp5 app=sp5/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp5/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://images4.wikia.nocookie.net/__cb20100803180938/logopedia/images/archive/a/a9/20110210125029!Sky_Sports_News_2010.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ ESPN (Server 2)</title>
-                <link>rtmp://67.228.31.169/sp6/authenticated//sp6/authenticated/ playpath=sp6/sp6 app=sp6/authenticated/ pageURL=http://www.flashsportstreams.tv/ tcURL=rtmp://67.228.31.169/sp6/authenticated/ swfUrl=http://www.flashsportstreams.info/mediaplayer/player.swf swfVfy=true live=true
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/800px-ESPN_wordmark.svg.png
-                </thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Science / Education Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ US \ TWit</title>
-                <link>http://bglive-a.bitgravity.com/twit/live/high</link>
-                <thumbnail>http://www.thisweekinphoto.com/wp-content/uploads/2010/07/twit-logo.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Free Speech TV</title>
-                <link>mms://a1121.l5365237120.c53652.g.lm.akamaistream.net/D/1121/53652/v0001/reflector:37120</link>
-                <thumbnail>http://thestreamdb.com/images/8gglzs.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ NASA</title>
-                <link>rtmp://cp76072.live.edgefcs.net/live/ swfUrl="http://www.nasa.gov/templateimages/redesign/flash_player/swf/4.5/player.swf" pageUrl="http://www.nasa.gov/multimedia/nasatv/media_flash.html" Playpath=MED-HQ-Flash@42814 live=true timeout=60
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ NASA HD \ HD</title>
-                <link>rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true timeout=60
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ PBS</title>
-                <link>http://winstream.kamu.tamu.edu/kamu-tv?mswmext=.asf</link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdflp.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Pentagon Channel</title>
-                <link>rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl="http://www.pentagonchannel.mil/swf/flvPlayer.swf" pageUrl="http://www.pentagonchannel.mil/library.html" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.com/images/8gglz3.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ TBN</title>
-                <link>rtmp://stream1.trinetsolutions.com/tbn/ playpath=tbnworld_high.sdp swfUrl="http://www.tbn.org/flash/tbn_player2_fullscreen.swf" pageUrl="http://www.tbn.org"
-                </link>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/de/thumb/b/b2/TBN-Logo.svg/780px-TBN-Logo.svg.png
-                </thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Shopping Channels</name>
-        <thumbnail></thumbnail>
-        <items>
-            <item>
-                <title>+ UK \ Create and Craft</title>
-                <link>rtmp://live.simplestreamcdn.net/idealworld/chan=createandcraft playpath=createandcraft2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnmj.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Ideal Extra</title>
-                <link>rtmp://live.simplestreamcdn.net/idealworld/chan=idealextra playpath=idealextra2 swfUrl="http://www.createandcraft.tv/common/flash/showpage/liveplayer.swf" pageUrl="http://www.createandcraft.tv/ShowGridView.aspx" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gqnnt.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ QVC</title>
-                <link>rtmp://cp79650.live.edgefcs.net/live/ playpath=QVCLive1@14308 swfUrl="http://www.qvcuk.com/ondemand/flowplayer.rtmp-3.1.3.swf" pageUrl="http://www.qvcuk.com/ondemand/livetv.html?cm_re=LN-_-OnQVCTV-_-QVCLive" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8ghm8e.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ QVC</title>
-                <link>rtmp://110.164.253.191:1935/live?_fcs_vhost=cp40617.live.edgefcs.net playpath=qvc-lfs@912 swfUrl="http://www.qvc.com/swf/hp_video_player2.swf?&amp;cookie=set" pageUrl="http://www.qvc.com/onair/liveshow.aspx?rewrite=no&amp;cookie=set" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gbjm9.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ America's Auction Network</title>
-                <link>rtmp://fml.dca.1179.edgecastcdn.net/201179 playpath=webcast swfUrl="http://www.aantv.com/flash/flowplayerC/flowplayer.commercial-3.1.2.swf?0.6917299595661461" pageUrl="http://www.aantv.com/" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://www.aantv.com/images/cache/155_aantvrealtylogo.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Buy Costumes TV</title>
-                <link>
-                    mms://a1269.l2277447268.c22774.g.lm.akamaistream.net/D/1269/22774/v0001/reflector:47268?KLI_D=3000464&amp;asx=433&amp;entry=1&amp;subitem=1&amp;attempt=1&amp;net=&amp;LI_N=
-                </link>
-                <thumbnail>http://theimagedb.com/images/8ghm7t.jpg</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ HSN</title>
-                <link>mms://a1797.l8175151796.c81751.g.lm.akamaistream.net/D/1797/81751/v0001/reflector:51796</link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/hh/hsn.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Shop NBC</title>
-                <link>rtmp://shopnbc.fmsls.entriq.net:1935/live?ovpfv=1.1 playpath=live_01@13361 swfUrl="http://shopnbc.img.entriq.net/img/ShopNBCLivePlayer/main.swf?v=200811071300" pageUrl="http://www.shopnbc.com/onair/Default.aspx?view=watchuslive&amp;cm_re=GN-_-ONAIR-_-WATCHUSLIVE" swfVfy=true live=true timeout=60
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ss/shop_nbc.png</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Other channels with English audio track</name>
-        <thumbnail>http://www.sprace.org.br/SPRACE/files/us-uk-flag.gif</thumbnail>
-        <items>
-            <item>
-                <title>+ EU \ MTV (Portugal)
-                </title>
-                <thumbnail>http://www.zombiereportingcenter.com/wp-content/uploads/2010/01/673px-MTV-Logo.svg.png
-                </thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisamtv swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Crime
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ HV-1 Europe (Portugal)
-                </title>
-                <thumbnail>http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/VH1.svg/200px-VH1.svg.png
-                </thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisavh1 swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Crime
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ Fox Crime (Portugal)
-                </title>
-                <thumbnail>http://futubox.com/system/icon_ds/213/original/Fox-Crime-1.png</thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisafoxcrime swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Crime
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ FOX Life (Portugal)
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_life_pt.png</thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisafoxlife swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Life
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ Fox Movies (Portugal)
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ff/fox_movies_middle_east.png</thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisafoxmovies swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/Fox Movies
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ AXN Black (Portugal)
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn_black_pt.png</thumbnail>
-                <link>rtmp://94.102.56.186/histream/televisaaxnblack playpath=televisaaxnblack swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/AXN Black
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ AXN Europe (Portugal)
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/aa/axn.png</thumbnail>
-                <link>rtmp://31.193.12.66/histream/televisaaxn playpath=televisaaxn live=1 swfurl=http://www.histream.tv/player.swf pageurl=http://www.histream.tv/AXN
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ Syfy (Portugal)
-                </title>
-                <thumbnail>http://www.lyngsat-logo.com/hires/ss/syfy.png</thumbnail>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisasyfy swfurl=http://www.histream.tv/player.swf live=true pageurl=http://www.histream.tv/SYFY
-                </link>
-            </item>
-            <item>
-                <title>+ EU \ FOX HD (Italy)</title>
-                <link>rtmp://s7.webport.tv/live playpath=z050224.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/215/original/foxhd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ FOX Crime HD (Italy)</title>
-                <link>rtmp://s7.webport.tv/live playpath=z050209.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/213/original/Fox-Crime-1.png</thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ Tru TV (Brazil)</title>
-                <link>rtmp://streamer.istreamlive.net/35_137/ playpath=esportestv48 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch48-trutv.htm
-                </link>
-                <thumbnail>http://www.lyngsat-logo.com/hires/tt/tru_tv.png</thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ National Geographic (Portugal)</title>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisanationalgeographic pageUrl=http://www.histream.tv/ live=1 swfUrl=http://www.histream.tv/player.swf
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/de/thumb/a/af/National_Geographic_Channel-Logo.svg/800px-National_Geographic_Channel-Logo.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ History Channel (Portugal)</title>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisahistoria pageUrl=http://www.histream.tv/ live=1 swfUrl=http://www.histream.tv/player.swf
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/de/thumb/0/0a/The_History_Channel-Logo.svg/800px-The_History_Channel-Logo.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ Discovery Channel (Portugal)</title>
-                <link>rtmp://94.102.56.186/histream/ playpath=televisadiscovery pageUrl=http://www.histream.tv/ live=1 swfUrl=http://www.histream.tv/player.swf
-                </link>
-                <thumbnail>
-                    http://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Discovery_Channel_1995.svg/352px-Discovery_Channel_1995.svg.png
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ EU \ Discovery HD Showcase</title>
-                <link>rtmp://tv.tvsector.com/live/z050208.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>
-                    http://rpmedia.ask.com/ts?u=/wikipedia/en/thumb/2/23/Discovery_HD.svg/120px-Discovery_HD.svg.png
-                </thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>XXX channels</name>
-        <thumbnail>http://www.sprace.org.br/SPRACE/files/us-uk-flag.gif</thumbnail>
-        <items>
-            <item>
-                <title>+ UK \ Blue Hustler TV</title>
-                <link>rtmp://tv.tvsector.com/live/z990102.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/224/original/hustler_hd.png</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Playboy TV (soft)</title>
-                <link>rtmp://38.96.175.173:1935/live/00006@hyqw swfUrl=http://ustvnow.tv/player/ustvnow.tv.swf pageUrl=http://www.ustvnow.tv/ustvnow.php?n=00006@hyqw&amp;vw=468&amp;vh=368 live=true
-                </link>
-                <thumbnail>http://hivine.files.wordpress.com/2008/03/401px-red_ribbon_svg.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Redlight TV</title>
-                <link>rtmp://tv.tvsector.com/live/z990101.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/226/original/redlight.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Penthouse HD1</title>
-                <link>rtmp://tv.tvsector.com/live/z990103.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/121/original/penthouse.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Penthouse HD2</title>
-                <link>rtmp://tv.tvsector.com/live/z990104.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.tvsector.com/comedy-central-hd tcUrl=rtmp://tv.tvsector.com/live
-                </link>
-                <thumbnail>http://futubox.com/system/icon_ds/122/original/penthouse2.png</thumbnail>
-            </item>
-            <item>
-                <title>+ UK \ Venus</title>
-                <link>rtmp://c31.webcaston.com/live/channel/ playpath=fituyry swfUrl=http://www.webcaston.com/player/player.swf live=1 pageUrl=http://www.webcaston.com
-                </link>
-                <thumbnail>http://en.kingofsat.net/jpg/venus-arabic.jpg</thumbnail>
-            </item>
-        </items>
-    </channel>
-    <channel>
-        <name>Live HD Cams</name>
-        <thumbnail>http://www.ipad-application-reviews.com/wp-content/uploads/2010/06/live-cams-hd-app-150x150.png
-        </thumbnail>
-        <items>
-            <item>
-                <title>+ JP \ Tokyo \ Chou City
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tokyo1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ JP \ Fukushima \ Wakamatsu Station
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>mms://center3.ntt-fukushima.com/n-jraizu</link>
-            </item>
-            <item>
-                <title>+ NL \ Amsterdam \ Koningsplein
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://media.terena.org/rtplive playpath=mp4:stream2.mp4 swfUrl="http://www.terena.org/javascript/mediaplayer/player.swf" pageUrl="http://www.terena.org/webcam/" swfVfy=true live=true
-                </link>
-            </item>
-            <item>
-                <title>+ RU \ Moscow Skyline
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=moscowHD1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ UK \ London - Abby Road
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=AbbeyRoadHD1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ International Space Station
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>http://www.nasa.gov/multimedia/isslivestream.asx</link>
-            </item>
-            <item>
-                <title>+ US \ Austin Texas</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=paradiseon6.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Las Vegas - Wedding Chapel
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wedding_chapel.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Las Vegas - Monte Carlo
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=monte_carlo.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Las Vegas - Welcome Sign</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=eclasvegas.flv live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ US \ New York - 46th and Broadway
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=fridaysHD1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - 43rd and Broadway</title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=tsoneHD1.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - 7th and Broadway</title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=hdtimes.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - Manhattan from Liberty Head</title>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=libertyHD1.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - Liberty Island
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=sliberty.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - Wall Street
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=chargingbull.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ New York - Midtown
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=midtown1.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Myrtle Beach - South Carolina
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3635.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Miami - Biscayne Beach</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd4.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Miami - Coconut Grove</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd3.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Miami - South Beach
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Miami - Sunny Isles Beach</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=miamivishd2.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Miami - News Cafe</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3644newscafe.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US \ Panama City
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=pinewill.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Palm Beach
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=breakerhd.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Fort Lauderdale
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=windjammerHD.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ San Diego - Mission Beach
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3478.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ Chicago - Wrigley Field
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=wrigleyfieldcamHD.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ US \ St. Louis - Eads Bridge</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=3724trailnet2.flv live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+US \ St. Louis - State Capitol</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=stlouis.flv live=true
-                </link>
-                <thumbnail>none</thumbnail>
-            </item>
-            <item>
-                <title>+ Philippines - Boracay Island - White Beach
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://63.229.55.59/ app=fecnetwork swfUrl=http://www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=philippinesHD1.flv live=true
-                </link>
-            </item>
-            <item>
-                <title>+ AI \ Anguilla - Meads Bay Beach</title>
-                <link>rtmp://63.229.55.59/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=anguilla.flv live=true
-                </link>
-                <thumbnail>http://media.merchantcircle.com/18979061/EarthCam%20Logo%20(Webcam%20Tech)_full.gif
-                </thumbnail>
-            </item>
-            <item>
-                <title>+ US - New Orleans - Bourbon Street
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=4280.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US - New Orleans - Cat Meow Balcony
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=4282.flv live=true timeout=180
-                </link>
-            </item>
-            <item>
-                <title>+ US - New Orleans - Cat Meow Karoke (not always on)
-                </title>
-                <thumbnail>none</thumbnail>
-                <link>rtmp://video2.earthcam.com/fecnetwork swfUrl=http://earthcam.com/swf/cam_player_v2/ecnPlayer.swf playpath=4281.flv live=true timeout=180
-                </link>
-            </item>
-        </items>
-    </channel>
+	<channel>
+		<name>Vietnamese</name>
+		<items>
+			<item>
+				<title>US - VPOPTV.COM</title>
+				<info>VPOPTV.COM</info>
+				<link>rtmp://64.62.143.5/live/Stream33</link>
+				<thumbnail>http://vietmtv.com/plantillas/imagesRed/logo.gif</thumbnail>
+			</item>
+			<item>
+				<title>US - Viet MTV</title>
+				<info>Viet MTV</info>
+				<link>rtmp://64.62.143.5/live/Stream1</link>
+				<thumbnail>http://vietmtv.com/plantillas/imagesRed/logo.gif</thumbnail>
+			</item>
+			<item>
+				<title>US - Rang Dong - VN Music Network</title>
+				<link>rtmp://www.evietmusic.com/liveStream playpath=webcam swfUrl=http://www.rangdong.com/shop/player.swf pageUrl=http://rangdong.com/shop/</link>
+			</item>
+			<item>
+				<title>US - VNATV 57.3</title>
+				<info>Viet Nam America TV 57.3</info>
+				<link>http://shared.streamwebtown.com/vnitv</link>
+				<thumbnail>http://vnatv.com/Images/VnaLogo.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - PHAT TU BI</title>
+				<info>Phat Tu Bi</info>
+				<link>http://6587.a.hostable.me/CuocDoiDucPhat.flv</link>
+			</item>
+			<item>
+				<title>US - Viet USA TV</title>
+				<info>Viet USA TV</info>
+				<link>http://vietpho.com/videos/tam-tinh-nghe-si/thanh_nga_1.flv</link>
+			</item>
+			<item>
+				<title>US - Saigon TV</title>
+				<link>rtmp://74.63.219.100:1935/sgtivi playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://www.saigontv.us/ swfVfy=true live=true</link>
+			</item>
+			<item>
+				<title>US - BYN 57.3</title>
+				<info>Broadcasting Youth network 57.3</info>
+				<link>rtmp://media2.ttconsultantsllc.com:1935/livepkgr playpath=livestream1 swfUrl=http://fpdownload.adobe.com/strobe/FlashMediaPlayback.swf/[[DYNAMIC]]/1 pageUrl=http://www.saigontv.mobi/byn-tv-us/ swfVfy=true live=true timeout=60</link>
+				<thumbnail>www.byntv.com/images/logo/byndragon300w.png</thumbnail>
+			</item>
+			<item>
+				<title>US - Little Saigon TV</title>
+				<info>Little Saigon TV 57.7 - California USA</info>
+				<link>rtmp://76.73.1.146/midiDemo playpath=livestream swfUrl=http://vietpho.com/ext/js/5.1/player-licensed.swf pageUrl=http://vietpho.com/online-channels.php?id=2 swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/little_saigon_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - Viet Christian</title>
+				<info>Viet Christian</info>
+				<link>mms://live.vietchristian.com/tv</link>
+				<thumbnail>http://a0.twimg.com/profile_images/1546339264/vc-iphone.png</thumbnail>
+			</item>
+			<item>
+				<title>US - Global TV</title>
+				<link>rtmp://74.63.219.100:1935/gbtivi playpath=myStream.sdp swfUrl=http://vietpho.com/globaltivi/globaltivi.swf pageUrl=http://globaltivi.com/ swfVfy=true live=true</link>
+			</item>
+			<item>
+				<title>US - Vietoday</title>
+				<link>mms://shared.streamwebtown.com/dong_sg</link>
+				<thumbnail>http://www.ourwebtv.com/Logos/Vietoday%20(VNiTV)%20Hanoi%20Vietnam.JPG</thumbnail>
+			</item>
+			<item>
+				<title>US - Vietface TV</title>
+				<info>Vietface TV</info>
+				<link>rtmp://74.63.219.100:1935/vftivi playpath=myStream.sdp swfUrl=http://vietfacetv.com/VFTV/vftv.swf pageUrl=http://vietfacetv.com swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viet_face_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - ABC Kids</title>
+				<info>ABC Kids (English)</info>
+				<link>http://www.abc.net.au/broadbandkids/wmp/20070521_1500/asx/player1hi.asx</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/en/thumb/c/c2/ABC_Kids_Logo.svg/200px-ABC_Kids_Logo.svg.png</thumbnail>
+			</item>
+			<item>
+				<title>US - EuroNews</title>
+				<link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/1-euronews-english" swfVfy=true live=true</link>
+				<thumbnail>http://www.abitofenglish.com/images/Euronews.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - ESPN</title>
+				<link>rtsp://tv.futubox.com:1935/live/z050201.stream</link>
+			</item>
+			<item>
+				<title>US - SkyNews</title>
+				<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+				<thumbnail>http://www.mediabistro.com/tvnewser/files/2011/03/skynews.jpe</thumbnail>
+			</item>
+			<item>
+				<title>US - POKER CHANNEL</title>
+				<link>mms://91.193.244.244/pokerchannel</link>
+			</item>
+			<item>
+				<title>US - Velocity HD</title>
+				<link>rtmp://fms3.tikilive.com:1935/view/25503_122/stream25503 live=true timeout=60</link>
+			</item>
+			<item>
+				<title>US - Cartoon Network</title>
+				<link>rtmp://streamer.istreamlive.net/35_137 playpath=cartoon swfUrl=http://static.vto.tv/player4.7.swf pageUrl=http://static.vto.tv</link>
+				<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/03/cartoonnetwork_20110323164059.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - Little Saigon Radio</title>
+				<link>rtsp://server.transnet1.com/LSR</link>
+			</item>
+			<item>
+				<title>US - Radio Hai Ngoai</title>
+				<link>http://vpr.serverroom.us:7492/</link>
+			</item>
+			<item>
+				<title>US - VNDC Radio</title>
+				<link>http://vndcradio2.serverroom.us:4480/</link>
+			</item>
+			<item>
+				<title>VN - MTV HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=MTVazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/mtv.26.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - StarMovie HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=StarMovieHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/star-movie-hd.3.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - StarWorld HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=StarWorldHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/star-world-hd.2.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - Disney HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=DisneyHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/disney-hd.4.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - CINEMAX HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=Cinemaxazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/cinemax.25.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HBO HD</title>
+				<link>rtmp://hdvnbits.org/live/ playpath=HBOHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/hbo-hd.5.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - ChannelV</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=ChannelVazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/channel-v.6.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - Discovery HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=DiscoveryHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/discovery-hd.15.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - AXN HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=AXNHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/axn-hd.16.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - NaGeo HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=NaGeoHDazn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/nageo-hd.17.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - ITV</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=VTC13azn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/itv.31.html swfUrl=http://tv.hdvnbits.org/plugins/player.swf swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HTVC Thuan Viet</title>
+				<link>rtmp://203.205.0.60:1935/live playpath=thuanviet swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://htvc.vn/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HTVC Gia dinh</title>
+				<link>rtmp://203.205.0.60:1935/live playpath=giadinh swfUrl=http://www.htvc.vn/swfs/StrobeMediaPlayback.swf pageUrl=http://htvc.vn/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HTVC Phim</title>
+				<link>rtmp://hdvnbits.org/live/HTVCMovie.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/channel.html#HTVCMovie.stream swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - Yeah1 HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=yeah1azn.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/yeah-1.1.html swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://yeah1.com/images/logo.png</thumbnail>
+			</item>
+			<item>
+				<title>VN - BINH DUONG 2</title>
+				<info>B nh D??ng 2</info>
+				<link>rtmp://202.43.109.147/rtplive/ playpath=btv2.stream swfUrl=http://streaming.btv.org.vn/player-viral.swf pageUrl=http://www.btv.org.vn/live/btv2.html</link>
+				<thumbnail>http://mytv.com.vn/images/Kenh/btv2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - BINH DUONG 1</title>
+				<info>B nh D??ng 1</info>
+				<link>rtmp://202.43.109.147/live/ playpath=btv1.stream swfUrl=http://streaming.btv.org.vn/player-viral.swf pageUrl=http://www.btv.org.vn/live/btv1.html</link>
+				<thumbnail>http://mytv.com.vn/images/Kenh/btv1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VOVTV</title>
+				<info>VOVTV</info>
+				<link>rtmp://123.30.50.46:8080/live/vovvideo.flv swfUrl=http://tnvn.gov.vn/Images/player.swf pageUrl=http://www.xemtivi.us/2011/05/kenh-vov-tv-kenh-vov-tv.html swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://1.bp.blogspot.com/-H8zUX9-T5r0/TbkqIm4ozVI/AAAAAAAAATA/W5l5U8ooIII/s1600/vovtv.gif</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV CAN THO1</title>
+				<info>VTV Can Tho 1</info>
+				<link>rtmp://113.161.204.167:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://vtvcantho.vn/Upload/image/f93f109d-371e-468d-a82a-bfc326ebbb6cvtv1.png</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV CAN THO2</title>
+				<info>VTV Can Tho 2</info>
+				<link>rtmp://113.161.204.168:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://vtvcantho.vn/Upload/image/e52289c4-6721-4197-a00e-eff2acecac53vtv2.png</thumbnail>
+			</item>
+			<item>
+				<title>VN - TRT 1 HUE</title>
+				<link>rtmp://118.69.176.149/live/trt swfUrl=http://tv.xunghe.vn/player.swf pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&amp;xem=trt1-hue live=true timeout=30</link>
+				<thumbnail>http://tv.xunghe.vn/images/logo/hue.gif</thumbnail>
+			</item>
+			<item>
+				<title>VN - VP VINH PHUC</title>
+				<link>rtmp://210.245.87.165/live/thvp swfUrl=http://tv.xunghe.vn/player.swf pageUrl=http://tv.xunghe.vn/?tab=Truyen-Hinh&amp;xem=vinh-phuc live=true timeout=30</link>
+				<thumbnail>http://tv.xunghe.vn/images/logo/vinhphuc.gif</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV DA NANG</title>
+				<link>rtmp://222.255.167.149/live/ playpath=livestream swfUrl=http://www.vtvdanang.vn/upload/online/player.swf pageUrl=http://www.vtvdanang.vn/upload/online/long.htm swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.vtvdanang.vn/Upload/Header/logoDVTV.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - QUANG NAM</title>
+				<link>mms://113.161.6.157/qrt</link>
+				<thumbnail>https://encrypted-tbn0.google.com/images?q=tbn:ANd9GcSYZXtpRsu420mKThHPyy2sMJOCrwTOciJBAv7vWjehrtQpt4gP</thumbnail>
+			</item>
+			<item>
+				<title>VN - Long An 34</title>
+				<link>rtsp://la34.com.vn/LA34TV%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20e354345dgdfbbfrgrfthrthteghytu67tu857%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20fghtfrh567%20fhjrfye5ytey%20b</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/long_an_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Vinh Long 1</title>
+				<info>V?nh Long 1</info>
+				<link>rtmp://123.30.108.77/live/THVL1/THVL1 live=1</link>
+				<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s105101q.png</thumbnail>
+			</item>
+			<item>
+				<title>VN - Vinh Long 2</title>
+				<info>V?nh Long 2</info>
+				<link>rtmp://123.30.108.77/live/THVL2/THVL2 live=1</link>
+				<thumbnail>http://www.phim247.com/images/thvl2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Binh Thuan</title>
+				<link>mms://123.30.108.114/BTVTruyenhinh</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_thuan_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Dong Nai 1</title>
+				<link>rtmp://123.30.107.3:1935/live/dn1/ playpath=livestream swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Dong Nai 2</title>
+				<link>rtmp://123.30.107.3:1935/live/dn2/ playpath=livestream swfUrl="http://vietpho.com/includes/js/vietpho.swf" pageUrl="http://vietpho.com/online-channels.php" swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/dong_nai_tv2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Ha Noi 1</title>
+				<link>rtmp://66.160.142.197:1935/live/hanoi11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hanoi_tv1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - Hau Giang</title>
+				<link>rtsp://115.78.160.29/thhg</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hau_giang_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - HTV 1</title>
+				<link>rtmp://hdvnbits.org/live/HTV1.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/channel.html#HTV1.stream swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HTV 4</title>
+				<link>rtmp://hdvnbits.org/live/HTV4.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/channel.html#HTV4.stream swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - HTV 7 - Saigon</title>
+				<link>rtmp://66.160.142.197:1935/live/htv7 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV7/24 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_7.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - HTV 9 - Saigon</title>
+				<link>rtmp://66.160.142.197:1935/live/htv91 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/HTV9/4 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_9.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 1</title>
+				<link>rtmp://66.160.142.197:1935/live/vtc11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTC1/10 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 2 VTC</title>
+				<link>rtmp://66.160.142.197:1935/live/vtc21 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC2/11 live=true</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 10</title>
+				<link>rtmp://66.160.142.197:1935/live/vtc101 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC10/22 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 3</title>
+				<info>VN Cable TV VTC3</info>
+				<link>rtsp://tv.hdvnbits.org:1935/live/VCTV3.stream</link>
+				<thumbnail>http://www.tv14.net/wp-content/uploads/2010/04/vtc3.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 16</title>
+				<info>VN Cable TV VTC16</info>
+				<link>rtmp://117.103.225.20/live/vtc161 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/ swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://www.tv14.net/wp-content/uploads/2010/09/vtc_16.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTC 21</title>
+				<link>rtmp://66.160.142.197:1935/live/vtc21 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC2/11 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV 1</title>
+				<link>rtmp://66.160.142.197:1935/live/vtv11 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV1/15 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV 2</title>
+				<link>rtmp://66.160.142.197:1935/live/vtv2 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV2/23 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV 3</title>
+				<link>rtmp://66.160.142.197:1935/live/vtv31 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VOV3/27 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV3 HD</title>
+				<link>rtmp://hdvnbits.org/live//VTV3.stream pageUrl=http://tv.hdvnbits.org live=1 swfUrl=http://tv.hdvnbits.org/plugins/player.swf</link>
+			</item>
+			<item>
+				<title>VN - VTV 4</title>
+				<link>rtmp://66.160.142.197:1935/live/vtv4 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://vtc.com.vn/#/VTV4/2 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV 6</title>
+				<link>rtmp://112.197.2.11:1935/live/vtv6.stream swfUrl=http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=60</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv6_vn.jpg</thumbnail>
+			</item>
+			<item>
+				<title>VN - VTV 9</title>
+				<link>rtmp://112.197.2.11:1935/live/vtv9.stream swfUrl=http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=60</link>
+				<thumbnail>http://anphavn.com/upload/2008/vtv9%20sua.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 1 Ha`i</title>
+				<link>http://112.197.2.16:1935/live/SDsctv1.stream/playlist.m3u8</link>
+				<thumbnail>http://4.bp.blogspot.com/-_py2zcV1OUU/TexjT58wesI/AAAAAAAAAUA/jEdkMWakm5E/s1600/sctv1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 2 Am Nhac Quoc Te</title>
+				<link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+				<thumbnail>http://3.bp.blogspot.com/-x7mfg7oUNIE/TexjUWF1GGI/AAAAAAAAAUE/WGmCcndbnbg/s1600/sctv2.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 3 SaoTV Thieu Nhi</title>
+				<link>http://112.197.2.16:1935/live/SDsctv3.stream/playlist.m3u8</link>
+				<thumbnail>http://4.bp.blogspot.com/-ubuLJTjPdlY/TexjUxczRSI/AAAAAAAAAUI/JvD9zp211n4/s1600/sctv3.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 4 Kenh Tong Hop</title>
+				<link>http://112.197.2.16:1935/live/SDsctv4.stream/playlist.m3u8</link>
+				<thumbnail>http://1.bp.blogspot.com/-aK9IKreVWFc/TexjVbp3NTI/AAAAAAAAAUM/4Lf_qmHQ_4o/s1600/sctv4.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 5 Shopping</title>
+				<link>http://112.197.2.16:1935/live/SDsctv5.stream/playlist.m3u8</link>
+				<thumbnail>http://1.bp.blogspot.com/-jyT7288ATfM/TexjV3TNLtI/AAAAAAAAAUQ/XVBwiO6wpNQ/s1600/sctv5.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 6 Kenh Song Nhac</title>
+				<link>http://112.197.2.16:1935/live/SDsctv6.stream/playlist.m3u8</link>
+				<thumbnail>http://3.bp.blogspot.com/-IIjtP_rnmP4/TexjWQh4PFI/AAAAAAAAAUU/VvILXiZLMrQ/s1600/sctv6.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 7 San Khau Van Nghe Tong Hop</title>
+				<link>http://112.197.2.16:1935/live/SDsctv7.stream/playlist.m3u8</link>
+				<thumbnail>http://1.bp.blogspot.com/-ocktnMqBnpI/TexjWzVfTpI/AAAAAAAAAUY/MnkKeg_THfg/s1600/sctv7.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 8 Thong Tin Kinh Te</title>
+				<link>http://112.197.2.16:1935/live/SDsctv8.stream/playlist.m3u8</link>
+				<thumbnail>http://4.bp.blogspot.com/-i4rrpQWLLJI/TexjXBBCI3I/AAAAAAAAAUc/aduIg-HPIVA/s1600/sctv8.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 9 Kenh Phim Chau A</title>
+				<link>http://112.197.2.16:1935/live/SDsctv9.stream/playlist.m3u8</link>
+				<thumbnail>http://3.bp.blogspot.com/-iqv41PQaYTw/TexjX8c3V7I/AAAAAAAAAUg/mD7H3h4J5eg/s1600/sctv9.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 10 Shopping Network</title>
+				<link>http://112.197.2.16:1935/live/SDsctv10.stream/playlist.m3u8</link>
+				<thumbnail>http://www.dailytv.net/uploads/thumbs/04a8c6b5e-1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 11 Hat Tren Truyen Hinh</title>
+				<link>http://112.197.2.16:1935/live/SDsctv11.stream/playlist.m3u8</link>
+				<thumbnail>http://luaviet.co/content/uploads/2011/10/Logo-SCTV11.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 12 Dulich Kham Pha</title>
+				<link>http://112.197.2.16:1935/live/SDsctv12.stream/playlist.m3u8</link>
+				<thumbnail>http://www.daily-tv.com/uploads/thumbs/a2ff607d6-1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 13 PhuNu & GiaDinh</title>
+				<link>http://112.197.2.16:1935/live/SDsctv13.stream/playlist.m3u8</link>
+				<thumbnail>http://www.myitv.net/uploads/thumbs/025b6efeb-1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 14 Kenh Phim Tieng Viet</title>
+				<link>http://112.197.2.16:1935/live/SDsctv14.stream/playlist.m3u8</link>
+				<thumbnail>http://image2.vctv.vn/Images/Uploaded/Share/2011/11/09/SCTV14.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 15 Kenh The Thao</title>
+				<link>http://112.197.2.16:1935/live/SDsctv15.stream/playlist.m3u8</link>
+				<thumbnail>http://liveradio.super-resources.com/wp-content/uploads/2011/12/sctv15.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 16 Kenh Phim Truyen Nuoc Ngoai Dac Sac</title>
+				<link>http://112.197.2.16:1935/live/SDsctv16.stream/playlist.m3u8</link>
+				<thumbnail>http://www.dailytv.net/uploads/thumbs/592050dda-1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 17 Kenh Phim Truyen Chon Loc</title>
+				<link>http://112.197.2.16:1935/live/SDsctv0.stream/playlist.m3u8</link>
+				<thumbnail>http://www.dailytv.net/uploads/thumbs/238545668-1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SCTV 18 KENH THE THAO HD</title>
+				<link>http://112.197.2.16:1935/live/SDsctv18.stream/playlist.m3u8</link>
+				<thumbnail>http://www.dailytv.net/uploads/thumbs/d93043d8b-1.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>USA</name>
+		<items>
+			<item>
+				<title>EWTN - Global Catholic Network</title>
+				<link>rtmp://cp132684.live.edgefcs.net/live/ playpath=USen_vbr_450@50104 swfUrl=http://www.ewtn.com/Live/unicorn/swf/player.swf pageUrl=http://www.ewtn.com/Live/unicorn/jwplayer.asp?bottom=false&feed=domeng swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>US FOX 13 (1)</title>
+				<link>rtmp://cp26153.live.edgefcs.net/live/wtvt_flash_4@55893 playpath=wtvt_flash_4@55893 swfUrl=http://www.shadownet.ro/webplayer/player1.swf live=1</link>
+			</item>
+			<item>
+				<title>US - EuroNews</title>
+				<link>rtmp://media2.lsops.net/live/ playpath=euronews_en_high.sdp swfUrl="http://www.livestation.com/flash/player/5.4/player.swf" pageUrl="http://www.livestation.com/channels/1-euronews-english" swfVfy=true live=true</link>
+				<thumbnail>http://www.abitofenglish.com/images/Euronews.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US - ESPN</title>
+				<link>rtsp://tv.futubox.com:1935/live/z050201.stream</link>
+			</item>
+			<item>
+				<title>US - ESPN2</title>
+				<link>rtmp://hdvnbits.org/live//ESPN.stream pageUrl=http://tv.hdvnbits.org live=1 swfUrl=http://tv.hdvnbits.org/plugins/player.swf</link>
+			</item>
+			<item>
+				<title>US_SKY SPORT1 HD</title>
+				<link>rtsp://s7.webport.tv/live/z050226.stream</link>
+			</item>
+			<item>
+				<title>US_MTV LIVE HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z010001.stream</link>
+			</item>
+			<item>
+				<title>US_HISTORY</title>
+				<link>rtsp://tv.futubox.com:1935/live/z050003.stream</link>
+			</item>
+			<item>
+				<title>US_COMEDY CENTRAL HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020503.stream</link>
+			</item>
+			<item>
+				<title>US_EUROSPORT HD1</title>
+				<link>rtsp://tv.futubox.com:1935/live/z010601.stream</link>
+			</item>
+			<item>
+				<title>US_DISNEY XD HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020101.stream</link>
+			</item>
+			<item>
+				<title>US_ITV 2 HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020102.stream</link>
+			</item>
+			<item>
+				<title>US_ITV 3 HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020103.stream</link>
+			</item>
+			<item>
+				<title>US_ZDF HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z030401.stream</link>
+			</item>
+			<item>
+				<title>US_SkyNews</title>
+				<link>mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k</link>
+				<thumbnail>http://www.mediabistro.com/tvnewser/files/2011/03/skynews.jpe</thumbnail>
+			</item>
+			<item>
+				<title>US_POKER CHANNEL</title>
+				<link>mms://91.193.244.244/pokerchannel</link>
+			</item>
+			<item>
+				<title>US_HGTV</title>
+				<link>rtmp://fms3.tikilive.com:1935/view/25503_041/stream25503 playpath=stream25503 swfUrl=http://www.tikilive.com/public/flash/Viewer.swf live=1 pageUrl=http://www.tikilive.com</link>
+			</item>
+			<item>
+				<title>DISNEY JR</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=animax swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/animax.html</link>
+			</item>
+			<item>
+				<title>NICK JR</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=nickjr swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/nickjr.htm</link>
+			</item>
+			<item>
+				<title>US_Cartoon Network</title>
+				<link>rtmp://streamer.istreamlive.net/35_137 playpath=cartoon swfUrl=http://static.vto.tv/player4.7.swf pageUrl=http://static.vto.tv</link>
+				<thumbnail>http://www-deadline-com.vimg.net/wp-content/uploads/2011/03/cartoonnetwork_20110323164059.jpg</thumbnail>
+			</item>
+			<item>
+				<title>US_ANIMAL PLANET HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z050001.stream</link>
+			</item>
+			<item>
+				<title>US_NASA HD</title>
+				<link>rtmp://cp39920.live.edgefcs.net:1935/live/nasahd@55196 swfurl=http://www.ustream.tv/flash/viewer.swf live=true</link>
+				<link>rtmp://ustream.fc.llnwd.net:1935/ustream/test/ swfurl=http://cdn1.ustream.tv/swf/4/viewer.rsl.604.swf playpath=ustream@llnw_1_6540154_live_1 live=true</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/nn/nasa_tv_us.png</thumbnail>
+			</item>
+			<item>
+				<title>US_Nat Geo Adventure HD</title>
+				<link>rtmp://204.45.157.130/live/_definst_ playpath=natgeo swfUrl=http://livetvcafe.net/player/jw_player_5/player3.swf pageUrl=http://livetvcafe.net swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>US_HBO 2 HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z010701.stream</link>
+			</item>
+			<item>
+				<title>HBO HD</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=hbohd swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbohd.html live=1 swfVfy=1</link>
+			</item>
+			<item>
+				<title>HBO PLUS</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=hboplus swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hboplus.html</link>
+			</item>
+			<item>
+				<title>SKY TRILLER HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020404.stream</link>
+			</item>
+			<item>
+				<title>Sky Movies Comedy HD</title>
+				<link>rtmp://s7.webport.tv/live playpath=z050231.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>SKY_MOVIE HD</title>
+				<link>rtmp://s7.webport.tv/live playpath=z050230.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>Sky Cinema Max HD</title>
+				<link>rtmp://s5.webport.tv/live playpath=z050206.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>SKY FAMILY HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020403.stream</link>
+			</item>
+			<item>
+				<title>Sky Movies Modern Greats HD</title>
+				<link>rtmp://s7.webport.tv/live playpath=z050228.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>MGM HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z020401.stream</link>
+			</item>
+			<item>
+				<title>BBC HD</title>
+				<link>rtsp://tv.futubox.com:1935/live/z010201.stream</link>
+			</item>
+			<item>
+				<title>RTL HD1</title>
+				<link>rtsp://tv.futubox.com:1935/live/z030101.stream</link>
+			</item>
+			<item>
+				<title>RTL HD2</title>
+				<link>rtsp://tv.futubox.com:1935/live/z030104.stream</link>
+			</item>
+			<item>
+				<title>SPORT 1 GERMANY</title>
+				<link>rtsp://tv.futubox.com:1935/live/z030103.stream</link>
+			</item>
+			<item>
+				<title>VN - StartMovie HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=StarMovieHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/star-movie-hd.3.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - StarWorld HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=StarWorldHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/star-world-hd.2.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - Disney HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=DisneyHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/disney-hd.4.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - CINEMAX HD</title>
+				<link>rtsp://tv02.hdvnbits.org:1935/live/Cinemax.stream</link>
+			</item>
+			<item>
+				<title>VN - HBO HD</title>
+				<link>rtsp://tv.hdvnbits.org:1935/live/HBOHD.stream</link>
+			</item>
+			<item>
+				<title>VN - ChannelV</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=ChannelV.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/channel-v.6.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - Discovery HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=DiscoveryHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/discovery-hd.15.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>VN - AXN HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=AXNHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/axn-hd.16.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>StarSports</title>
+				<link>rtmp://hdvnbits.org/live//StarSports.stream pageUrl=http://tv.hdvnbits.org live=1 swfUrl=http://tv.hdvnbits.org/plugins/player.swf</link>
+			</item>
+			<item>
+				<title>VN - NaGeo HD</title>
+				<link>rtmp://tv02.hdvnbits.org/live/ playpath=NaGeoHD.stream swfUrl=http://tv.hdvnbits.org/plugins/player.swf pageUrl=http://tv.hdvnbits.org/nageo-hd.17.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>AU_V8 TV</title>
+				<link>http://cht-cdn220-is-3.se.bptvlive.ngcdn.telstra.com/online-v8med</link>
+			</item>
+			<item>
+				<title>AU_NRL TV</title>
+				<link>http://lon-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/online-nrlmed</link>
+			</item>
+			<item>
+				<title>AU_BigPond Sport</title>
+				<link>http://lon-cdn220-is-3.se.bptvlive.ngcdn.telstra.com/online-sportmed</link>
+			</item>
+			<item>
+				<title>AU_AFL TV</title>
+				<link>http://cht-cdn220-is-1.se.bptvlive.ngcdn.telstra.com/online-aflmed</link>
+			</item>
+			<item>
+				<title>MSNBC</title>
+				<link>rtmp://b.cdn.msnbclive.eu/edge/msnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://blog.livenewschat.tv swfVfy=1 live=true</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/msnbc.jpg</thumbnail>
+			</item>
+			<item>
+				<title>SPORT_Chelsea Tv</title>
+				<link>rtmp://cp96798.live.edgefcs.net:1935/live playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://sapiens.bplaced.net/data/StrobeMediaPlayback.swf pageUrl=http://www.time4tv.net/2011/09/chelsea-tv.html swfVfy=true live=true</link>
+				<thumbnail>http://nowwatchtvlive.com/wp-content/uploads/2011/09/Chelsea-TV-Logo.jpg</thumbnail>
+			</item>
+			<item>
+				<title>Sony Set Max</title>
+				<link>rtmp://109.163.236.116/streamhq playpath=125481 swfUrl=http://streamhq.tv/player/skin2/player.swf pageUrl=http://streamhq.tv/player.php?channel_id=125481</link>
+				<thumbnail>http://worldonpc.com/wp-content/uploads/2011/04/set-max-tv-logo.png</thumbnail>
+			</item>
+			<item>
+				<title>FOX</title>
+				<link>rtmp://streamer.istreamlive.net/35_137 playpath=esportestv29 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch29-fox.htm</link>
+			</item>
+			<item>
+				<title>FOX HD</title>
+				<link>rtmp://s7.webport.tv/live playpath=z050224.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>TC PREMIUM</title>
+				<link>rtmp://streamer.istreamlive.net/35_137 playpath=esportestv24 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch24-telecine.htm</link>
+			</item>
+			<item>
+				<title>SONY</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=sony swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sony.html</link>
+			</item>
+			<item>
+				<title>Discovery Channel HD</title>
+				<link>rtmp://s5.webport.tv/live playpath=z050208.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>US_FOX crime</title>
+				<link>rtmp://s5.webport.tv/live playpath=z050209.stream pageUrl=http://www.tvsector.com live=1 swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf</link>
+			</item>
+			<item>
+				<title>US HD Movie Channel 1</title>
+				<link>rtmp://176.31.231.57/edge/b0vlexgcfalvrc0 swfUrl=http://www.ilive.to/jwplayer/player.swf pageUrl=http://www.ilive.to/12793/The_HD_movie_channel_1 tcUrl=rtmp://176.31.231.57/edge timeout=60</link>
+			</item>
+			<item>
+				<title>UK Classic Movies 1</title>
+				<link>mms://195.90.118.87/classicmovies_1</link>
+			</item>
+			<item>
+				<title>UK Classic Movies 2</title>
+				<link>mms://195.90.118.87/classicmovies_2</link>
+			</item>
+			<item>
+				<title>TC TOUCH</title>
+				<link>rtmp://streamer.istreamlive.net/133_182/ playpath=touch swfUrl=http://tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/light.html</link>
+			</item>
+			<item>
+				<title>TC PREMIUM</title>
+				<link>rtmp://streamer.istreamlive.net/35_137 playpath=esportestv24 swfUrl=http://static.vto.tv/player4.7.swf live=1 pageUrl=http://www.tvnanet.biz/boss/ch24-telecine.html</link>
+			</item>
+			<item>
+				<title>JUST TV</title>
+				<link>rtmp://67.228.177.151:1935/live playpath=myStream.sdp swfUrl=http://www.justtv.com.br/2010/email/aovivo/player.swf live=1 pageUrl=http://www.justtv.com.br/2010/email/aovivo/</link>
+			</item>
+			<item>
+				<title>STARZ - HBO - ENCORE</title>
+				<link>rtmp://176.31.237.198/edge/k6sl277kqlswruk pageUrl=http://www.ilive.to live=1 swfUrl=http://www.ilive.to/plugins/player.swf</link>
+			</item>
+			<item>
+				<title>south park</title>
+				<link>rtmp://176.31.231.124/edge/31c623685ot6qdp pageUrl=http://www.ilive.to live=1 swfUrl=http://www.ilive.to/plugins/player.swf</link>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Thailand - Lao - Khmer</name>
+		<items>
+			<item>
+				<title>KHMER - TVK</title>
+				<link>mms://208.53.158.111/tvk</link>
+				<thumbnail></thumbnail>
+			</item>
+			<item>
+				<title>KHMER - BAYON TV</title>
+				<link>mms://208.53.158.111/bayon</link>
+			</item>
+			<item>
+				<title>KHMER - TV3</title>
+				<link>rtmp://203.176.130.114/live/ playpath=tv3_480k.stream?493fa615-b79a-4c6c-b6f0-8a3bb60cd90a swfUrl=http://www.mekongtv.net/media/player.swf pageUrl=http://www.mekongtv.net/channels/tv3 swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>KHMER - TV5</title>
+				<link>rtmp://203.176.130.114/live/ playpath=tv5_480k.stream?9fe2a2c3-5a32-4378-99c9-23f42ffb4e89 swfUrl=http://www.mekongtv.net/media/player.swf pageUrl=http://www.mekongtv.net/channels/tv5 swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>KHMER - Bayon TV News</title>
+				<link>rtmp://203.176.130.114/live/ playpath=bayontv1_480k.stream?695237c2-f587-4fdb-b869-35618d9abac4 swfUrl=http://www.mekongtv.net/media/player.swf pageUrl=http://www.mekongtv.net/channels/bayontv1 swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>KHMER - SeaTV</title>
+				<link>rtmp://203.176.130.114/live/ playpath=seatv_480k.stream?c0cd3dcc-4ad2-4c2c-9d7a-85d3ecba7381 swfUrl=http://www.mekongtv.net/media/player.swf pageUrl=http://www.mekongtv.net/channels/seatv swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>LAO - Lao Star Channel</title>
+				<link>rtmp://edge.phx02.malimarcdn.com/laostaredge playpath=laostar3.sdp swfUrl=http://www.laostartv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://www.laostartv.com/live-laotv</link>
+			</item>
+			<item>
+				<title>LAO - Lao National TV</title>
+				<link>rtmp://edge.phx01.malimarcdn.com/lntvedge playpath=lntv3.sdp swfUrl=http://www.laostartv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://www.laostartv.com/live-laotv swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>LAO US TV</title>
+				<link>rtmp://edge.lax01.malimarcdn.com/laoustvedge playpath=laoustv.sdp swfUrl=http://www.laoustv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://www.laoustv.com/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>LAO - PSTV</title>
+				<link>rtmp://edge.phx02.malimarcdn.com/pstvedge playpath=pstv.sdp swfUrl=http://www.laostartv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://www.laostartv.com/live-laotv swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>US - HMong TV</title>
+				<link>mms://72.52.104.25/hmongtvnew</link>
+			</item>
+			<item>
+				<title>ThaiLand - DMC</title>
+				<link>rtmp://live-us.dmc.tv:80/hd playpath=th_premium.sdp swfUrl=http://live.dmc.tv/flowplayer-3.2.7.swf pageUrl=http://live.dmc.tv/</link>
+			</item>
+			<item>
+				<title>Thailand - TGN</title>
+				<link>rtmp://APP.TV5.CO.TH:1935/live playpath=tgnlive swfUrl=http://www.tv5.co.th/player.swf pageUrl=http://www.tv5.co.th/tgnlive.php</link>
+			</item>
+			<item>
+				<title>Thailand - Asia TV Update DNN</title>
+				<link>rtmp://edge.phx02.malimarcdn.com/asiaupdateedge playpath=dnn.sdp swfUrl=http://www.laostartv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://www.laostartv.com/live-laotv</link>
+			</item>
+			<item>
+				<title>Thailand - News TV</title>
+				<link>rtmp://edge.phx02.malimarcdn.com/asiaupdateedge playpath=dnn.sdp swfUrl=http://wwitv.com/player/player15.swf pageUrl=http://wwitv.com/tv_channels/b6082.htm</link>
+			</item>
+			<item>
+				<title>Thailand - Modernine TV</title>
+				<link>rtmp://61.47.61.3:1935/live playpath=myStream swfUrl=http://mcot-image01.mcot.gtis.co.th/mcot/player/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.mcot.net/live</link>
+			</item>
+			<item>
+				<title>Thailand - MCOT1</title>
+				<info>A general TV channel owned and operated by MCOT Public Company Limited.</info>
+				<link>rtmp://61.47.61.3:1935/live playpath=myStream swfUrl=http://mcot-image01.mcot.gtis.co.th/mcot/player/flowplayer.rtmp-3.1.3.swf pageUrl=http://www.mcot.net/live</link>
+			</item>
+			<item>
+				<title>Thailand - E-SAN Discovery</title>
+				<link>rtsp://broadcast.manager.co.th/esan</link>
+			</item>
+			<item>
+				<title>Thailand - NBT (PRD TV / Channel 11)</title>
+				<link>http://wms.43a2.edgecastcdn.net/2043A2/nationlive128</link>
+			</item>
+			<item>
+				<title>Thailand - Asia Update TV</title>
+				<link>rtmp://edge.phx02.malimarcdn.com/asiaupdateedge playpath=dnn.sdp swfUrl=http://www.asiaupdate.tv/jwplayer/player.swf pageUrl=http://www.asiaupdate.tv/live swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - Suwannabhumi TV</title>
+				<link>rtsp://203.146.129.248/suwan</link>
+			</item>
+			<item>
+				<title>Thailand - Thailand Community Channel</title>
+				<link>rtmp://flash.login.in.th/ch8tcc playpath=ch8tcc swfUrl=http://flash.login.in.th/flashstreaming/player.swf pageUrl=http://www.ch8tcc.com/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - Home Channel</title>
+				<link>rtsp://203.146.129.248/hometv</link>
+			</item>
+			<item>
+				<title>Thailand - Bang Channel</title>
+				<link>rtmp://110.164.48.217/live playpath=zaa swfUrl=http://www.3bb.co.th/streaming/player.swf pageUrl=http://www.zaanetwork.com/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - You2Play TV</title>
+				<link>rtmp://203.151.21.9/live playpath=You2PlayTV swfUrl=http://static.you2play.com/flowplayer/flowplayer.swf pageUrl=http://www1.you2play.com/you2playtv/live/ swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - ETV</title>
+				<link>rtmp://61.19.244.112/live playpath=livestream swfUrl=http://flash.login.in.th/flashstreaming/player.swf pageUrl=http://www.etvthai.tv/stream/home.aspx swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - Panda Live</title>
+				<link>http://203.113.25.41:8080/webLive?URL=http%3A%2F%2Fwww.zoothailand.org%2Fpanda%2FVideoLink.php%3FLinkVideo%3Dchiangmai</link>
+			</item>
+			<item>
+				<title>Thailand - Jewelry Channel</title>
+				<link>rtmp://unicorn.aitstreaming.com/live playpath=jwctv.com swfUrl=http://www.aitstreaming.com/uplayer/uplayer-3.swf pageUrl=http://www.jwctv.com/tvonline.html swfVfy=true live=true timeout=60</link>
+			</item>
+			<item>
+				<title>Thailand - SBT TV (Luangta.com)</title>
+				<link>rtmp://202.44.53.229/live playpath=livestream swfUrl=http://www.luangta.com/live-flash/flowplayer-3.2.5.swf?0.7269846706453567 pageUrl=http://www.luangta.com/live-flash/ swfVfy=true live=true timeout=60</link>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>ROMANIA</name>
+		<items>
+			<item>
+				<title>Muscel TV</title>
+				<link>mms://musceltvlive.muscel.ro:8080</link>
+				<thumbnail>http://www.musceltv.ro/images/musceltv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>TVRM Educational</title>
+				<link>mms://86.34.169.52:8080/</link>
+				<thumbnail>none</thumbnail>
+			</item>
+			<item>
+				<title>Antena 3</title>
+				<link>rtmpe://fms30.mediadirect.ro app=live2/antena3 swfUrl=http://static1.mediadirect.ro/player-preload/swf/antena3_new_288/player.swf pageUrl=http://www.antena3.ro/live playpath=antena_3_low live=true</link>
+				<thumbnail>http://www.antena3.ro/static/images/antena3.jpg</thumbnail>
+			</item>
+			<item>
+				<title>RO \ OneHD Classics</title>
+				<link>rtmp://93.114.43.3:1935/live/ swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/classics.php playpath=classics live=true</link>
+				<thumbnail>http://live.1hd.ro/images/onehd_classics.png</thumbnail>
+			</item>
+			<item>
+				<title>RO \ OneHD Dance</title>
+				<link>rtmp://93.114.43.3:1935/live/ playpath=dance swfUrl=http://live.1hd.ro/player5.3.swf pageUrl=http://live.1hd.ro/dance.php live=true</link>
+				<thumbnail>http://live.1hd.ro/images/onehd_dance.png</thumbnail>
+			</item>
+			<item>
+				<title>B1TV</title>
+				<link>rtmpe://fms27.mediadirect.ro:1935/live/b1?id=29067181 app=live/b1?id=29067181 swfUrl=http://static1.mediadirect.ro/player-preload/swf/b1_337/player.swf pageUrl=http://www.b1.ro/live playpath=b1_low live=true</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/b1_tv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>RO \ Dolce Sport</title>
+				<link>rtmpe://fms-de01.mediadirect.ro:80/live/dolcesport?id=14703526/dolcesport swfurl=http://static.mediadirect.ro/player-preload/swf/preloader/preloader.swf live=true</link>
+				<link>rtmpe://fms30.mediadirect.ro:1935/live3?id=14703526/dolcesport_low swfurl=http://static.mediadirect.ro/player-preload/swf/preloader/preloader.swf live=true</link>
+				<thumbnail>http://thestreamdb.com/images/8gdfu5.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Indian</name>
+		<items>
+			<item>
+				<title>Indian - ZeeTV</title>
+				<link>rtmp://c71.webcaston.com/live/channel/zeetvjnskjndd swfUrl=http://www.webcaston.com/player/player.swf pageUrl=http://www.webcaston.com/embed.php?fileid=zeetvjnskjndd&amp;vw=600&amp;vh=480&amp;domai n=idesitv.com</link>
+			</item>
+			<item>
+				<title>Indian - Zoom</title>
+				<link>rtmp://122.160.220.49/live/ playpath=ZOOM_HVGA.sdp app=live/ swfUrl=http://www.sakitvs.com/player/play.swf pageUrl=http://www.sakitvs.com/zoom.html live=true</link>
+			</item>
+			<item>
+				<title>Indian - MTV India</title>
+				<link>rtmp://122.248.252.56/live playpath=mywaymtv150.sdp app=live swfUrl=http://www.sakitvs.com/player/play.swf pageUrl=http://www.sakitvs.com/mtvindia.html</link>
+			</item>
+			<item>
+				<title>Indian - Sahara Filmy</title>
+				<link>rtmp://122.248.252.56/live playpath=mywayfilmy150.sdp app=live swfUrl=http://zengatv.com/player.swf pageUrl=http://www.sakitvs.com/filmy2.html</link>
+			</item>
+			<item>
+				<title>Indian - Discovery Channel India</title>
+				<link>rtmp://122.160.220.49/live/DISCOVERYCHANNEL_HVGA.sdp playpath=DISCOVERYCHANNEL_HVGA.sdp live=1 pageurl=http://www.google.com/Discovery Channel</link>
+			</item>
+			<item>
+				<title>Indian - Ndtv_Ndtv24x7</title>
+				<link>http://bglive-a.bitgravity.com/ndtv/247lo/live/native</link>
+				<thumbnail>http://www.ndtv.com/static/images/live_ndtvlogo.gif</thumbnail>
+			</item>
+			<item>
+				<title>Indian - Ndtv_India</title>
+				<link>http://bglive-a.bitgravity.com/ndtv/indlo/live/native</link>
+				<thumbnail>http://khabar.ndtv.com/Images/live_ndtv_india_logo.gif</thumbnail>
+			</item>
+			<item>
+				<title>Indian - Ndtv - Hindu</title>
+				<link>http://bglive-a.bitgravity.com/ndtv/indhi/live/native</link>
+				<thumbnail>http://www.ndtv.com/static/images/live_ndtv_hindu_logo.gif</thumbnail>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Chinese</name>
+		<items>
+			<item>
+				<title>CHINA - CNTV | Chinese News Broadcast in English</title>
+				<info>Chinese News Broadcast in English</info>
+				<link>mms://a529.l7906022528.c79060.g.lm.akamaistream.net/D/529/79060/v0001/reflector:22528</link>
+				<thumbnail>http://www.digitaleastasia.com/wp-content/uploads/2009/12/cntv-logo.jpg</thumbnail>
+			</item>
+			<item>
+				<title>CHINA_CSPN</title>
+				<link>mms://58.48.156.93/hubeitiyu</link>
+			</item>
+			<item>
+				<title>CCTV-News</title>
+				<link>mms://219.90.61.6/cctv9-tw</link>
+				<thumbnail>http://www.shenzhen-standard.com/wp-content/uploads/2010/10/cctv.jpg</thumbnail>
+			</item>
+			<item>
+				<title>CHINA - CCTV4 - Chinese News in Mandarin</title>
+				<info>Chinese News Broadcast in Mandarin</info>
+				<link>mms://4.71.37.8/cctv4-200</link>
+				<thumbnail>http://www.crisonu.com/tv2/CCTV4.jpg</thumbnail>
+			</item>
+			<item>
+				<title>CHINA - CNTV | Chinese News Broadcast in English</title>
+				<info>Chinese News Broadcast in English</info>
+				<link>mms://a529.l7906022528.c79060.g.lm.akamaistream.net/D/529/79060/v0001/reflector:22528</link>
+				<thumbnail>http://www.digitaleastasia.com/wp-content/uploads/2009/12/cntv-logo.jpg</thumbnail>
+			</item>
+			<item>
+				<title>CHINA - CCTV4 - Chinese News in Mandarin</title>
+				<info>Chinese News Broadcast in Mandarin</info>
+				<link>mms://4.71.37.8/cctv4-200</link>
+				<thumbnail>http://www.crisonu.com/tv2/CCTV4.jpg</thumbnail>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>Korean</name>
+		<items>
+			<item>
+				<title>KR \ CBS ?????</title>
+				<link>mms://vod2.cbs.co.kr/cbs_tv_live34</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cbs_tv_kr.jpg</thumbnail>
+			</item>
+			<item>
+				<title>KR \ CGNTV</title>
+				<link>mms://cdn7.cgntv.net/live200</link>
+				<thumbnail>http://us.cgntv.net/upload_idx/i000349/ci.gif</thumbnail>
+			</item>
+			<item>
+				<title>KR \ CTS ??? TV</title>
+				<link>mms://222.122.78.81/LIVE</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cts_kr.jpg</thumbnail>
+			</item>
+			<item>
+				<title>KR \ KCTV ????</title>
+				<link>mms://media2.kctvjeju.com/live5</link>
+				<thumbnail>http://kctvjeju.com/img/kctv_logo_sun2.gif</thumbnail>
+			</item>
+			<item>
+				<title>KR \ ??????</title>
+				<link>mms://118.46.233.19/tvs</link>
+				<thumbnail>http://www.gnmbc.co.kr/img/menu2010/2.gif</thumbnail>
+			</item>
+			<item>
+				<title>KR \ ??? TV World_Live</title>
+				<link>mms://s1.arirang.co.kr/World_Live</link>
+				<thumbnail>http://2.bp.blogspot.com/-PJqQJOwsBec/TWu4Uk5-4xI/AAAAAAAAACE/0fRV6x2kzzs/s1600/749px-Arirang-TV-Logo.svg.png</thumbnail>
+			</item>
+			<item>
+				<title>KR \ ?????? \ -67d</title>
+				<link>mms://vod.ysmbc.co.kr/ystv</link>
+				<thumbnail>http://www.ysmbc.co.kr/2011(1)mainimg/1.logo01.gif</thumbnail>
+			</item>
+			<item>
+				<title>KR \ ??????</title>
+				<link>mms://210.114.174.235:80/jeju_tvonair?.wma</link>
+				<thumbnail>http://d1i6vahw24eb07.cloudfront.net/s2183.gif</thumbnail>
+			</item>
+			<item>
+				<title>KR \ ?????</title>
+				<link>mms://live.hmall.com/encoder2</link>
+				<thumbnail>http://file2.cbs.co.kr/newsroom/image/2010/06/15152803258_61400030.jpg</thumbnail>
+			</item>
+			<item>
+				<title>KR_Arirang</title>
+				<link>mms://s1.arirang.co.kr/World_Live?MSWMExt=.asf</link>
+			</item>
+		</items>
+	</channel>
+	<channel>
+		<name>French - Arabic</name>
+		<items>
+			<item>
+				<title>TF1 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010107.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/205/original/tf1.png</thumbnail>
+				<epgid>guidetele:1</epgid>
+			</item>
+			<item>
+				<title>France 2</title>
+				<link>rtmp://cp108476.live.edgefcs.net/live playpath=france2_1_800@45496 swfUrl=http://www.wilmaa.com/player/main_v5.033.swf pageUrl=http://www.wilmaa.com app=live live=1</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_France_2.svg/1000px-Logo_France_2.svg.png</thumbnail>
+				<epgid>guidetele:2</epgid>
+			</item>
+			<item>
+				<title>France 2 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010105.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/0/02/Logo_France_2.svg/1000px-Logo_France_2.svg.png</thumbnail>
+				<epgid>guidetele:2</epgid>
+			</item>
+			<item>
+				<title>France 3</title>
+				<link>rtmp://cp108476.live.edgefcs.net/live playpath=france3_1_800@45499 swfUrl=http://www.wilmaa.com/player/main_v5.033.swf pageUrl=http://www.wilmaa.com app=live live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/258/original/france3.png</thumbnail>
+				<epgid>guidetele:3</epgid>
+			</item>
+			<item>
+				<title>France 3 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010111.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/258/original/france3.png</thumbnail>
+				<epgid>guidetele:3</epgid>
+			</item>
+			<item>
+				<title>France 4 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010112.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/259/original/france4.png</thumbnail>
+				<epgid>guidetele:4</epgid>
+			</item>
+			<item>
+				<title>France 5</title>
+				<link>rtmp://cp108476.live.edgefcs.net/live playpath=france5_1_800@45501 swfUrl=http://www.wilmaa.com/player/main_v5.033.swf pageUrl=http://www.wilmaa.com app=live live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/260/original/france5.png</thumbnail>
+				<epgid>guidetele:5</epgid>
+			</item>
+			<item>
+				<title>France 5 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010113.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/260/original/france5.png</thumbnail>
+				<epgid>guidetele:5</epgid>
+			</item>
+			<item>
+				<title>M6 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010106.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/184/original/m6.png</thumbnail>
+				<epgid>guidetele:6</epgid>
+			</item>
+			<item>
+				<title>NRJ 12</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010110.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/257/original/nrj12.png</thumbnail>
+			</item>
+			<item>
+				<title>FR_MOVIE</title>
+				<link>mms://88.191.102.174:8080</link>
+			</item>
+			<item>
+				<title>W9</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010108.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/255/original/w9.png</thumbnail>
+			</item>
+			<item>
+				<title>TMC</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z010109.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1</link>
+				<thumbnail>http://futubox.com/system/icon_ds/256/original/tmc.png</thumbnail>
+			</item>
+			<item>
+				<title>TV5 Monde</title>
+				<link>rtmp://cp108478.live.edgefcs.net/live playpath=tv5monde_1_800@45511 swfUrl=http://www.wilmaa.com/player/main_v5.033.swf pageUrl=http://www.wilmaa.com app=live live=1</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/ar/6/6e/TV5_Monde.png</thumbnail>
+			</item>
+			<item>
+				<title>Arte</title>
+				<link>rtmp://cp108478.live.edgefcs.net/live playpath=arte_fr_1_800@45512 swfUrl=http://www.wilmaa.com/player/main_v5.033.swf pageUrl=http://www.wilmaa.com app=live live=1 timeout=10</link>
+				<thumbnail>http://futubox.com/system/icon_ds/221/original/arte.png</thumbnail>
+			</item>
+			<item>
+				<title>Orange Sports</title>
+				<link>mms://livewm.orange.fr/live-multicanaux</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
+			<item>
+				<title>Orange Sports event 1</title>
+				<link>mms://livewm.orange.fr/direct-evenementiels</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
+			<item>
+				<title>Orange Sports event 2</title>
+				<link>mms://livewm.orange.fr/direct-evenementiels2</link>
+				<thumbnail>http://images3.wikia.nocookie.net/__cb20101221223235/logopedia/images/b/b6/Orange_Sport.png</thumbnail>
+			</item>
+			<item>
+				<title>France 24 HD</title>
+				<link>rtmp://s5.webport.tv:1935/live playpath=z050213.stream swfUrl=http://www.tvsector.com/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://tvsector.com live=1 timeout=10</link>
+				<thumbnail>http://futubox.com/system/icon_ds/220/original/france24.png</thumbnail>
+				<epgid>guidetele:410</epgid>
+			</item>
+			<item>
+				<title>EuroNews</title>
+				<link>rtmp://fr-par-1.stream-relay.hexaglobe.net:1935/rtpeuronewslive playpath=fr_video750_flash_all.sdp swfUrl=http://fr.euronews.net/media/player_live_1_12.swf</link>
+				<thumbnail>http://upload.wikimedia.org/wikipedia/fr/thumb/d/d5/Euronews_logo_2008.svg/1000px-Euronews_logo_2008.svg.png</thumbnail>
+				<epgid>guidetele:121</epgid>
+			</item>
+			<item>
+				<title>Rouge TV</title>
+				<link>rtmp://rtmp.infomaniak.ch/livecast playpath=rougetv swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#rouge-tv live=true timeout=60</link>
+				<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfv.png</thumbnail>
+			</item>
+			<item>
+				<title>IDF1</title>
+				<link>http://live240.impek.com/idf1</link>
+				<thumbnail>http://bollytolly.net/wp-content/uploads/2012/03/IDF1_logo-248x300.png</thumbnail>
+			</item>
+			<item>
+				<title>Clap TV</title>
+				<link>rtsp://rr93.diffusepro.com/rr93</link>
+				<thumbnail>http://www.4online.tv/wp-content/uploads/2010/06/Clap-TV.jpg</thumbnail>
+			</item>
+			<item>
+				<title>KTO</title>
+				<link>rtmp://cp99495.live.edgefcs.net/live playpath=Flash_live_KTO_TV@27823 swfUrl=http://tvplayer.castlemedia.fr/swf/tvplayer.swf?4dadb783f0a81537187120216 pageUrl=http://www.playtv.fr/television/#kto swfVfy=true live=true timeout=60</link>
+				<thumbnail>http://thestreamdb.googlecode.com/svn/logos/8gdgfx.png</thumbnail>
+			</item>
+			<item>
+				<title>Labelle TV</title>
+				<link>mms://www.labelletv.net/labelleTV</link>
+				<thumbnail>http://www.francetogo.com/tv/logos/labelle.jpg</thumbnail>
+			</item>
+			<item>
+				<title>LaLocale</title>
+				<link>rtsp://stream.lalocale.com/lalocale</link>
+				<thumbnail>http://cz.kingofsat.net/jpg/lalocale.jpg</thumbnail>
+			</item>
+			<item>
+				<title>FR_France BFM News</title>
+				<link>mmsh://vipmms9.yacast.net/bfm_bfmtv</link>
+			</item>
+			<item>
+				<title>BMF Business</title>
+				<link>mms://vipmms.yacast.net/bfm_bfmbiz</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/bb/bfm_business.png</thumbnail>
+			</item>
+			<item>
+				<title>TVM Est Parisien</title>
+				<link>rtmp://rtmp.infomaniak.ch/livecast playpath=cineplume swfUrl=http://static.infomaniak.ch/livetv/player-v3.swf?cfg=http://static.infomaniak.ch/configvideo/cineplume/tvm/359_config.xml pageUrl=http://www.playtv.fr/television/#tvm-est-parisien swfVfy=true live=true</link>
+				<thumbnail>http://static.playtv.fr/img/tv_channels/199_medium.png</thumbnail>
+			</item>
+			<item>
+				<title>Al Jazeera</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=aljazeer_ar_high.sdp swfUrl=http://www.livestation.com/channels/43-al-jazeera-arabic</link>
+			</item>
+			<item>
+				<title>Al Jazeera Mubashir</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=aljamuba_ar_high.sdp swfUrl=http://www.livestation.com/channels/101-al-jazeera-mubasher-arabic</link>
+			</item>
+			<item>
+				<title>Al Alarabiya</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=alarabiy_ar_high.sdp swfUrl=http://www.livestation.com/products/57-al-arabiya-arabic-arabic</link>
+			</item>
+			<item>
+				<title>BBC Arabic</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=bbcarab_ar_high.sdp swfUrl=http://www.livestation.com/channels/34-bbc-arabic-arabic</link>
+			</item>
+			<item>
+				<title>Euronews Arabic</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=euronews_ar_high.sdp swfUrl=http://www.livestation.com/channels/35-euronews-</link>
+			</item>
+			<item>
+				<title>CNBC Arabic</title>
+				<link>rtmp://media4.lsops.net/live/ playpath=cnbc_ar_high.sdp swfUrl=http://www.livestation.com/products/63-cnbc-europe-middle-east--africa</link>
+			</item>
+			<item>
+				<title>Russia Alyaum</title>
+				<link>rtmp://russiatoday.fms.visionip.tv/rt/Russia_al_yaum_1000k_1/1000k_1.flv</link>
+			</item>
+			<item>
+				<title>TRT Arabic</title>
+				<link>mms://95.0.159.131/TRTARABIC</link>
+			</item>
+			<item>
+				<title>Tuyour Aljanah 2</title>
+				<link>rtmp://173.193.48.137:9000/ToyorAljanah2?id=00:1D:92:F1:5A:6A&ip=69.108.115.153&auth=424a7a0abf4171c02fafa13b0058756f</link>
+			</item>
+			<item>
+				<title>Canal+ 1</title>
+				<link>rtmp://188.165.213.45:1935/15 swfUrl=http://maxtvstream.com/swfs/StrobeMediaPlayback.swf pageUrl=http://maxtvstream.com/embed/segurity_t.php playpath=093f65e080a295f8076b1c5722a46aa2 live=true</link>
+				<thumbnail>/private/var/mobile/Library/Preferences/XBMC/addons/plugin.video.live.streams/logos/1.png</thumbnail>
+			</item>
+			<item>
+				<title>test</title>
+				<link>rtsp://tv.futubox.com:1935/live/z050201.stream</link>
+			</item>
+		</items>
+	</channel>
 </channels>

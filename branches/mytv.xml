@@ -1,0 +1,312 @@
+<?xml version="1.0" ?>
+<channels>
+    <channel>
+        <name>New VN HD Channel</name>
+        <items>
+            <item>
+                <title>OneTV</title>
+                <link>rtsp://42.117.9.45:80/live/onetv_2500.stream</link>
+            </item>
+            <item>
+                <title>ITV HD (VTC 13)</title>
+                <link>http://113.160.49.34/lives/origin01/vtcitvhd.isml/vtcitvhd-2096k.m3u8</link>
+            </item>
+            <item>
+                <title>HTVC CN</title>
+                <link>rtsp://42.117.9.45:80/live/htvcmusic_2500.stream</link>
+            </item>
+            <item>
+                <title>HTVC CN</title>
+                <link></link>
+            </item>
+            <item>
+                <title>HTVC Phim</title>
+                <link>rtsp://42.117.9.45:80/live/htvcmovie_2500.stream</link>
+            </item>
+            <item>
+                <title>HTVC Thể Thao</title>
+                <link>http://123.29.75.134/htvc_thethao_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>The Thao TV</title>
+                <link>rtsp://42.117.9.45:80/live/vctv3_2500.stream</link>
+            </item>
+            <item>
+                <title>VMT Movie HD</title>
+                <link>http://123.30.128.79:1935/live/vmtPhimHD/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VMT Music</title>
+                <link>http://123.30.128.79:1935/live/vmtMusic/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VMT Show</title>
+                <link>http://123.30.128.79:1935/live/vmtShow/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VMT Cartoon</title>
+                <link>http://123.30.128.79:1935/live/vmtHoatHinh/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VMT Hai</title>
+                <link>http://123.30.128.79:1935/live/vmtHai/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>HTV 2</title>
+                <link>http://123.29.75.139/htv2_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>HTV 3</title>
+                <link>rtsp://42.117.9.45:80/live/htv3_2500.stream</link>
+            </item>
+            <item>
+                <title>HTV 4</title>
+                <link>http://123.29.75.136/htv4_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>HTV 7</title>
+                <link>http://123.29.75.139/htv7_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>HTV 9</title>
+                <link>http://123.29.75.139/htv9_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 1</title>
+                <link>http://113.160.49.34/lives/origin02/vtv1sd.isml/vtv1sd.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 2</title>
+                <link>http://113.160.49.34/lives/origin02/vtv2sd.isml/vtv2sd-1096k.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 3</title>
+                <link>http://42.117.9.45/live/vtv3_2500.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 4</title>
+                <link>http://113.160.49.34/lives/origin02/vtv4sd.isml/vtv4sd.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 5</title>
+                <link>http://113.160.49.34/lives/origin02/vtv5sd.isml/vtv5sd.m3u8</link>
+            </item>
+            <item>
+                <title>VTV 6</title>
+                <link>rtsp://42.117.9.45:80/live/vtv6_2500.stream</link>
+            </item>
+            <item>
+                <title>VTV 9</title>
+                <link>rtsp://42.117.9.45:80/live/vtv6_2500.stream</link>
+            </item>
+            <item>
+                <title>VTC 2 HD</title>
+                <link>http://113.160.49.34/lives/origin01/vtchd2.isml/vtchd2.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 3 HD</title>
+                <link>http://113.160.49.34/lives/origin01/vtchd3.isml/vtchd3.m3u8</link>
+            </item>
+            <item>
+                <title>HBO</title>
+                <link>http://123.29.75.133/hbo_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>HBO HD</title>
+                <link>http://113.160.49.34/lives/origin01/bts-hbohd.isml/bts-hbohd.m3u8</link>
+            </item>
+            <item>
+                <title>Cinemax</title>
+                <link>http://123.29.75.137/cinemax_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Cartoon Network</title>
+                <link>http://113.160.49.34/lives/origin02/cartoonsd.isml/cartoonsd.m3u8</link>
+            </item>
+            <item>
+                <title>Animax</title>
+                <link>http://123.29.75.135/animax_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Baby TV</title>
+                <link>http://123.29.75.135/babytv_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Star Movie</title>
+                <link>http://123.29.75.137/starmovie_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Starworld</title>
+                <link>http://123.29.75.137/starworld_hd2.m3u8</link>
+            </item>
+            <item>
+                <title>AXN</title>
+                <link>http://123.29.75.133/axn_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>AXN HD</title>
+                <link>http://113.160.49.34/lives/origin01/bts-axnhd.isml/bts-axnhd.m3u8</link>
+            </item>
+            <item>
+                <title>Disney HD</title>
+                <link>http://123.29.75.133/disney_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>CNN</title>
+                <link>http://123.29.75.132/cnn_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Channel V</title>
+                <link>http://123.29.75.136/channelv_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>TLC Du Lich Kham Pha</title>
+                <link>http://123.29.75.136/travel_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>MTV Asia</title>
+                <link>http://113.160.49.34/lives/origin02/bts-mtvsd.isml/bts-mtvsd.m3u8</link>
+            </item>
+            <item>
+                <title>Arirang</title>
+                <link>http://123.29.75.136/arirang_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Discovery HD</title>
+                <link>http://113.160.49.34/lives/origin02/discoverysd.isml/discoverysd.m3u8</link>
+            </item>
+            <item>
+                <title>NaGeo</title>
+                <link>http://123.29.75.136/ngc_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Animal Planet</title>
+                <link>http://123.29.75.138/animal_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Fox Sport</title>
+                <link>http://123.29.75.137/espn_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>Fox Sport HD</title>
+                <link>http://113.160.49.34/lives/origin01/bts-espnhd.isml/bts-espnhd.m3u8</link>
+            </item>
+            <item>
+                <title>Star Sport</title>
+                <link>http://113.160.49.34/lives/origin02/starsportsd.isml/starsportsd.m3u8</link>
+            </item>
+            <item>
+                <title>True Sport 4</title>
+                <link>http://123.29.75.132/truesport_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VYUHATV Showbiz</title>
+                <link>http://webmedia.vyuhatv.com:1935/vyuhatv_live/mp4:vyuha.showbiz.360p/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>HaCTV 2 - Truyen Hinh Cable HN</title>
+                <link>http://123.29.75.135/HCaTV_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>D-Drama VCTV 7</title>
+                <link>rtsp://42.117.9.45:80/live/vctv7_2500.stream</link>
+            </item>
+            <item>
+                <title>VTC 7 Today TV</title>
+                <link>http://113.160.49.34/lives/origin02/vtc7sd.isml/vtc7sd.m3u8</link>
+            </item>
+            <item>
+                <title>Vietnamnet TV</title>
+                <link>rtsp://42.117.9.45:80/live/vietnamnet_2500.stream</link>
+            </item>
+            <item>
+                <title>VTC 1</title>
+                <link>http://123.29.75.138/vtc1_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 2</title>
+                <link>http://123.29.75.137/vtc2_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 3</title>
+                <link>http://123.29.75.137/vtc3_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 6</title>
+                <link>http://123.29.75.139/vtc6_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 8</title>
+                <link>http://123.29.75.132/vtc8_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 9 Let's Viet</title>
+                <link>http://webmedia.vyuhatv.com:1935/vyuhatv_live/mp4:vtc9.480p/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 10</title>
+                <link>http://123.29.75.136/vtc10_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 11 Kid's TV</title>
+                <link>http://123.29.75.138/kids_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 12</title>
+                <link>http://123.29.75.137/vtc12_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>VTC 14</title>
+                <link>http://123.29.75.136/vtc14_hd1.m3u8</link>
+            </item>
+            <item>
+                <title>SCTV 11</title>
+                <link>http://112.197.2.11:1935/live/SDsctv11.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VYUHATV Showbiz</title>
+                <link>http://webmedia.vyuhatv.com:1935/vyuhatv_live/mp4:vyuha.showbiz.240p/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VYUHATV Hai</title>
+                <link>http://webmedia.vyuhatv.com:1935/vyuhatv_live/mp4:vyuha.funny.360p/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VYUHATV Show</title>
+                <link>http://webmedia.vyuhatv.com:1935/vyuhatv_live/mp4:vyuha.show.240p/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>Info TV</title>
+                <link>http://123.30.128.79:1935/live/infotv_vmt.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>O2 TV</title>
+                <link>http://123.30.128.79:1935/live/o2.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>Fanxipan</title>
+                <link>http://123.30.128.79:1935/live/fansipan_vmt.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>Style TV</title>
+                <link>http://123.30.128.79:1935/live/styletv_vmt.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VCTV 2</title>
+                <link>http://123.30.128.79:1935/live/vctv2_vmt.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>VCTV 5</title>
+                <link>http://123.30.128.79:1935/live/vctv5_vmt.stream/playlist.m3u8</link>
+            </item>
+            <item>
+                <title>Sport TV 1</title>
+                <link>http://mobilestreaming.ilive.to:1935/edge/fo3frsg4nw3u9l5/playplist.m3u8</link>
+            </item>
+            <item>
+                <title>Sport TV 2</title>
+                <link>http://mobilestreaming.ilive.to:1935/edge/dg3jhr4l2l7gsmg/playplist.m3u8</link>
+            </item>
+        </items>
+    </channel>
+</channels>

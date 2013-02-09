@@ -6,6 +6,7 @@
             <item>
                 <title>OneTV</title>
                 <link>rtsp://42.117.9.45:80/live/onetv_2500.stream</link>
+                <thumbnail></thumbnail>
             </item>
             <item>
                 <title>ITV HD (VTC 13)</title>

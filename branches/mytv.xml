@@ -4,6 +4,10 @@
         <name>New VN HD Channel</name>
         <items>
             <item>
+                <title>Vietface</title>
+                <link>rtmp://64.71.151.48:1935/streams/urlparams?channel:1005?token:6436488 swfUrl=http://usermng.aditmedia.net/mediaplayer/player.swf pageUrl=http://socal.vietfacetv.com/ live=true swfVfy=true timeout=60</link>
+            </item>
+            <item>
                 <title>OneTV</title>
                 <link>rtsp://42.117.9.45:80/live/onetv_2500.stream</link>
                 <thumbnail></thumbnail>

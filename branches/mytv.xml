@@ -29,7 +29,7 @@
                 <link>rtsp://42.117.9.45:80/live/htvcmovie_2500.stream</link>
             </item>
             <item>
-                <title>HTVC Thể Thao</title>
+                <title>HTVC Thá»ƒ Thao</title>
                 <link>http://123.29.75.134/htvc_thethao_hd1.m3u8</link>
             </item>
             <item>
@@ -311,6 +311,279 @@
             <item>
                 <title>Sport TV 2</title>
                 <link>http://mobilestreaming.ilive.to:1935/edge/dg3jhr4l2l7gsmg/playplist.m3u8</link>
+            </item>
+            <item>
+                <title>US - VPOPTV</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=vpoptv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>US - Tu thien the</title>
+                <link>rtmp://www.evietmusic.com/tuthienthe playpath=ttt_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - VIET DALLAS</title>
+                <link>rtmp://www.evietmusic.com/vietdallas playpath=vdallas_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - VIET FLORIA</title>
+                <link>rtmp://www.evietmusic.com/vietflorida playpath=vflorida_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - Ngoi Sao Tuong Lai</title>
+                <link>rtmp://www.evietmusic.com/ngstl playpath=ngstl_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - Phat Tu Bi</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=ptb_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - V-MUSIC</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=mtv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - Little saigon</title>
+                <link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf pageUrl=http://lstv.mediaserve.tv/sample_players/live.html live=true swfVfy=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - VietFace TV</title>
+                <link>rtmp://64.71.151.48:1935/streams/urlparams?channel:1005?token:6436488 swfUrl=http://usermng.aditmedia.net/mediaplayer/player.swf pageUrl=http://socal.vietfacetv.com/ live=true swfVfy=true timeout=60</link>
+            </item>
+            <item>
+                <title>US - Viet USA TV</title>
+                <link>http://vietpho.com/videos/tam-tinh-nghe-si/thanh_nga_1.flv</link>
+            </item>
+            <item>
+                <title>US - Viet Christian</title>
+                <link>mms://live.vietchristian.com/tv</link>
+            </item>
+            <item>
+                <title>US - Vietoday</title>
+                <link>mms://shared.streamwebtown.com/dong_sg</link>
+            </item>
+            <item>
+                <title>US - VBS TV 57.6</title>
+                <link>rtmp://74.63.219.101/vbstele/myStream.sdp swfUrl=http://saigontv.com/includes/flash/saigontivi.swf pageUrl=http://www.vbstelevision.com//</link>
+            </item>
+            <item>
+                <title>US - SaigonTV 57.5</title>
+                <link>rtmp://74.63.219.101:1935/sgtele/myStream.sdp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://saigontv.us/ live=true</link>
+            </item>
+            <item>
+                <title>US - VNITV</title>
+                <link>mms://shared.streamwebtown.com/vnitv</link>
+            </item>
+            <item>
+                <title>US - Saigon Radio Seattle</title>
+                <link>http://206.71.180.246:8888/;&amp;topspeed=on</link>
+            </item>
+            <item>
+                <title>US - Radio Hai Ngoai</title>
+                <link>http://vpr.serverroom.us:7492/</link>
+            </item>
+            <item>
+                <title>US - VNDC Radio</title>
+                <link>http://vndcradio2.serverroom.us:4480/</link>
+            </item>
+            <item>
+                <title>VN - HTV 7(not always work)</title>
+                <link>rtmp://66.160.142.201/live/htv7_h swfUrl=http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=20</link>
+            </item>
+            <item>
+                <title>VN - HTV 9</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=htv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - OneTV</title>
+                <link>rtsp://42.117.9.45:80/live/onetv_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - HTVC CN</title>
+                <link>rtsp://42.117.9.45:80/live/htvcmusic_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - HTVC Phim</title>
+                <link>rtsp://42.117.9.45:80/live/htvcmovie_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - The Thao TV</title>
+                <link>rtsp://42.117.9.45:80/live/vctv3_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - HTV 3</title>
+                <link>rtsp://42.117.9.45:80/live/htv3_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - VTV 6</title>
+                <link>rtsp://42.117.9.45:80/live/vtv6_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - VTV 9</title>
+                <link>rtsp://42.117.9.45:80/live/vtv6_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - D-Drama VCTV 7</title>
+                <link>rtsp://42.117.9.45:80/live/vctv7_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - Vietnamnet TV</title>
+                <link>rtsp://42.117.9.45:80/live/vietnamnet_2500.stream</link>
+            </item>
+            <item>
+                <title>VN - SCTV 1 Hai</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv1.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 2 Am Nhac Quoc Te</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv2.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 3 SaoTV Thieu Nhi</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv3.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 4 Kenh Tong Hop</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv4.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 6 Kenh Song Nhac</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv6.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 7 San Khau Van Nghe Tong Hop</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv7.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 9 Kenh Phim Chau A</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 12 Dulich Kham Pha</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv12.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 13 PhuNu &amp; GiaDinh</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv13.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 14 Kenh Phim Tieng Viet</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv14.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 15 Kenh The Thao</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv15.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 16 Kenh Phim Truyen Nuoc Ngoai Dac Sac</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv16.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 17 Kenh Phim Truyen Chon Loc</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv17.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - SCTV 18 KENH THE THAO HD</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=SDsctv18.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - ITV Music</title>
+                <link>rtmp://210.245.82.6/live/itvw_hh playpath=itvw_hh swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.tivi24h.com/ live=true</link>
+            </item>
+            <item>
+                <title>VN - VTC 1</title>
+                <link>http://123.30.191.202/live/VTC1-out-FLV?fmt=x264_1000k_flv</link>
+            </item>
+            <item>
+                <title>VN - VTC 2</title>
+                <link>rtmp://66.160.142.197:1935/live/vtc21 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC2/11 live=true</link>
+            </item>
+            <item>
+                <title>VN - VTC 3</title>
+                <link>http://123.30.191.202/live/VTC3-out-FLV?fmt=x264_1000k_flv</link>
+            </item>
+            <item>
+                <title>VN - VTC 10</title>
+                <link>rtmp://66.160.142.197:1935/live/vtc101 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC10/22 live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 1</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv1.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 2</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv2.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 3</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv3.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 4</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv4.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 6</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv6.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV 9</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=vtv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - ANTV</title>
+                <link>rtmpe://112.197.2.11:1935/live playpath=antv.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV Can Tho 1</title>
+                <link>rtmp://113.161.204.167:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV Can Tho 2</title>
+                <link>rtmp://113.161.204.168:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV Da Nang</title>
+                <link>rtmp://222.255.167.149/live/ playpath=livestream swfUrl=http://www.vtvdanang.vn/upload/online/player.swf pageUrl=http://www.vtvdanang.vn/upload/online/long.htm swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - VTV Phu Yen</title>
+                <link>rtmp://113.161.4.102/live/ playpath=vtvphuyen.tv swfUrl=http://hktivi.name.vn/player.swf?file=vtvphuyen.tv&amp;streamer=rtmp://113.161.4.102/live/&amp;image=/hinhnen3.png&amp;type=rtmp&amp;volume=100&amp;autostart=true&amp;stretching=exactfit&amp;controlbar=over&amp;auto pageUrl=http://hktivi.name.vn/kenh/vtvphuyen.html swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - Vinh Long 1</title>
+                <link>rtmp://123.30.108.77/live/THVL1/THVL1 live=1</link>
+            </item>
+            <item>
+                <title>VN - Vinh Long 2</title>
+                <link>rtmp://123.30.108.77/live/THVL2/THVL2 live=1</link>
+            </item>
+            <item>
+                <title>VN - HA NOI 1</title>
+                <link>rtmp://66.160.142.197:1935/live/hanoi11_h swfUrl=http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=20</link>
+            </item>
+            <item>
+                <title>VN - Binh Phuoc 1</title>
+                <link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - Binh Phuoc 2</title>
+                <link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - BTV Bac Lieu</title>
+                <link>rtmp://113.161.218.10/live/ playpath=BTV.test swfUrl=http://thbl.vn/vplayer.swf pageUrl=http://thbl.vn/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - Lang Son</title>
+                <link>rtmp://123.18.206.40/live/ playpath=livestream swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/langson.php swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>VN - Vinh Long 2</title>
+                <link>rtmp://123.30.108.77/live/THVL2/THVL2 swfUrl=http://tv24.com.vn/WebMedia/mediaplayer/vplayer.swf pageUrl=http://www.vtc.com.vn/#/HTV/5 live=true timeout=20</link>
+            </item>
+            <item>
+                <title>VN - NCT</title>
+                <link>rtmp://123.30.134.108:1935/live playpath=nctlive swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/nhaccuatui.php live=true timeout=30</link>
             </item>
         </items>
     </channel>

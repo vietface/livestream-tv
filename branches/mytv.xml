@@ -115,7 +115,7 @@
             </item>
             <item>
                 <title>VN - VTV 1 - Tong Hop</title>
-                <link>http://113.160.49.34/lives/origin02/vtv1sd.isml/vtv1sd.m3u8</link>
+                <link>http://203.162.16.22/lives/origin02/vtv1sd.isml/vtv1sd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
             </item>
             <item>
@@ -130,23 +130,13 @@
             </item>
             <item>
                 <title>VN - VTV 4 - Nguoi Viet Hai Ngoai</title>
-                <link>http://113.160.49.34/lives/origin02/vtv4sd.isml/vtv4sd.m3u8</link>
+                <link>http://203.162.16.22/lives/origin02/vtv4sd.isml/vtv4sd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTV 5 - Tong Hop</title>
                 <link>http://123.29.75.131:1935/live/vtv5.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv5_vn.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - VTV 6 - Thieu Nhi</title>
-                <link>rtsp://42.117.9.45:80/live/vtv6_2500.stream</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv6_vn.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - VTV 9</title>
-                <link>rtsp://42.117.9.45:80/live/vtv9_2500.stream</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv9_vn.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - ANTV</title>

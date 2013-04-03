@@ -9,9 +9,24 @@
                 <thumbnail>http://vietpho.com/images/channels/vftv.jpg</thumbnail>
             </item>
             <item>
-                <title>US - Set TV</title>
+                <title>US - SET TV</title>
                 <link>rtmp://www.evietmusic.com/set playpath=set_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://settv574.com/images/upload/Banner/banner.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Cuoi voi Bao Liem (coming soon)</title>
+                <link>rtmp://www.evietmusic.com/tuthienthe playpath=ttt_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/BaoLiem.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Viet Power TV 56.5</title>
+                <link>rtmp://www.evietmusic.com/vietpower playpath=vpower_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VPTV.png</thumbnail>
+            </item>
+            <item>
+                <title>US - VNA TV 57.3</title>
+                <link>rtmp://www.evietmusic.com/vnatv playpath=vnatv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.latetfest.net/wp-content/uploads/2012/05/VNA-TV-Logo.png</thumbnail>
             </item>
             <item>
                 <title>US - Saigon TV </title>
@@ -44,6 +59,11 @@
                 <thumbnail>http://echipstore.net/logo/Vietbolsa.jpg</thumbnail>
             </item>
             <item>
+                <title>US - Viet Saigon TV </title>
+                <link>rtmp://www.evietmusic.com/vietsaigon playpath=vsaigon_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.viettv24.com/main/images/Viet%20Sai%20Gon.jpg</thumbnail>
+            </item>
+            <item>
                 <title>US - Viet Toronto TV </title>
                 <link>rtmp://www.evietmusic.com/viettoronto playpath=vtoronto_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://echipstore.net/logo/Viettoronto.jpg</thumbnail>
@@ -73,6 +93,16 @@
                 <link>rtmp://www.evietmusic.com/ngstl playpath=ngstl_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://echipstore.net/logo/nstl.jpg</thumbnail>
             </item>
+			<item>
+			    <title>US - Viet Christian</title>
+			    <link>mms://live.vietchristian.com/tv</link>
+			    <thumbnail>http://tv-online.in/wp-content/uploads/2012/12/VietChristian-TV.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>US - Viet Today</title>
+			    <link>mms://shared.streamwebtown.com/dong_sg</link>
+			    <thumbnail>http://echipstore.net/logo/viettoday.png</thumbnail>
+			</item>
             <item>
                 <title>US - Saigon Radio Seattle</title>
                 <link>http://206.71.180.246:8888/;&amp;topspeed=on</link>
@@ -94,24 +124,29 @@
         <name>Truyen Hinh Viet Nam</name>
         <items>
         	<item>
+                <title>VN - HTV 1 - Giai Tri</title>
+                <link>http://123.29.75.131:1935/live/htv1.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_1.jpg</thumbnail>
+            </item>
+        	<item>
                 <title>VN - HTV 2 - Giai Tri</title>
-                <link>http://123.29.75.139/htv2_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_2.jpg</thumbnail>
+                <link>http://123.29.75.131:1935/live/htv4.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_4.jpg</thumbnail>
             </item>
         	<item>
                 <title>VN - HTV 7</title>
-                <link>http://123.29.75.131:1935/live/htv7.stream/playlist.m3u8</link>
+                <link>rtmpe://112.197.2.11:1935/live playpath=htv7.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_7.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - HTV 9</title>
-                <link>http://123.29.75.139/htv9_hd1.m3u8</link>
+                <link>rtmpe://112.197.2.16:1935/live playpath=htv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_9.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - HTVC Thể Thao</title>
-                <link>http://123.29.75.134/htvc_thethao_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/the_thao_tv.jpg</thumbnail>
+                <title>VN - HTVC Thuan Viet</title>
+                <link>http://203.162.235.26/lives/origin01/bts-thuanviethd.isml/bts-thuanviethd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htvc_thuan_viet.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTV 1 - Tong Hop</title>
@@ -134,13 +169,8 @@
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - VTV 5 - Tong Hop</title>
-                <link>http://123.29.75.131:1935/live/vtv5.stream/playlist.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv5_vn.jpg</thumbnail>
-            </item>
-            <item>
                 <title>VN - ANTV</title>
-                <link>rtmpe://112.197.2.11:1935/live playpath=antv.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <link>rtmpe://112.197.2.16:1935/live playpath=antv.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antv_vn.jpg</thumbnail>
             </item>
             <item>
@@ -160,23 +190,28 @@
             </item>
             <item>
                 <title>VN - VTC 1 - Giai Tri Tong Hop</title>
-                <link>http://123.29.75.138/vtc1_hd1.m3u8</link>
+                <link>http://123.29.75.131:1935/live/vtc1.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTC 2 - Cong Nghe Thong Tin</title>
-                <link>rtmp://66.160.142.197:1935/live/vtc21 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC2/11 live=true</link>
+                <link>http://123.29.75.131:1935/live/vtc2.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - VTC 3 - The Thao</title>
-                <link>http://123.29.75.137/vtc3_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_3.jpg</thumbnail>
+                <title>VN - VTC 5 - Giai tri</title>
+                <link>http://203.162.16.22/lives/origin02/vtc5sd.isml/vtc5sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_5.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTC 6 - Phim</title>
                 <link>http://203.162.16.22/lives/origin02/vtc6sd.isml/vtc6sd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_6.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 7</title>
+                <link>http://203.162.16.22/lives/origin02/vtc7sd.isml/vtc7sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_7.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTC 8 - Thong Tin Kinh Te Chung Khoan</title>
@@ -190,23 +225,13 @@
             </item>
             <item>
                 <title>VN - VTC 10 - Van Hoa Viet</title>
-                <link>rtmp://66.160.142.197:1935/live/vtc101 swfUrl=http://vtc.com.vn/player.swf pageUrl=http://www.vtc.com.vn/#/VTC10/22 live=true timeout=60</link>
+                <link>rtmp://111.91.233.197:1935/live playpath=vtc101_l swfUrl=http://vtc.com.vn/player_akamai_low.swf pageUrl=http://vtc.com.vn/live/4/VTC10.html live=true timeout=60</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - VTC 11 (Kids TV) - Giai Tri Thieu Nhi</title>
-                <link>http://123.29.75.138/kids_hd1.m3u8</link>
+                <link>http://123.29.75.131:1935/live/kidstv.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_11.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - VTC 12 - Mua Sam</title>
-                <link>http://123.29.75.137/vtc12_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_12.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - VTC 14 - Phong Chong Thien Tai</title>
-                <link>http://123.29.75.136/vtc14_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_14.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - Can Tho 1</title>
@@ -261,32 +286,12 @@
             <item>
                 <title>VN - Lang Son</title>
                 <link>rtmp://123.18.206.40/live/ playpath=livestream swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/langson.php swfVfy=true live=true timeout=60</link>
-                <thumbnail>http://diachidoanhnghiep.com/images/news/truyenhinhlangson_logo.jpg</thumbnail>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624892507900_574_574.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - NCT</title>
                 <link>rtmp://123.30.134.108:1935/live playpath=nctlive swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/nhaccuatui.php live=true timeout=30</link>
                 <thumbnail>https://lh6.googleusercontent.com/-M0u51WLChYk/UF1fuzwFt_I/AAAAAAAABSM/C73T_B7yJ40/s128/nhaccuatui.png</thumbnail>
-            </item>
-            <item>
-                <title>VN - VMT Movie HD</title>
-                <link>http://123.30.128.79:1935/live/vmtPhimHD/playlist.m3u8</link>
-            </item>
-            <item>
-                <title>VN - VMT Music</title>
-                <link>http://123.30.128.79:1935/live/vmtMusic/playlist.m3u8</link>
-            </item>
-            <item>
-                <title>VN - VMT Show</title>
-                <link>http://123.30.128.79:1935/live/vmtShow/playlist.m3u8</link>
-            </item>
-            <item>
-                <title>VN - VMT Cartoon</title>
-                <link>http://123.30.128.79:1935/live/vmtHoatHinh/playlist.m3u8</link>
-            </item>
-            <item>
-                <title>VN - VMT Hai</title>
-                <link>http://123.30.128.79:1935/live/vmtHai/playlist.m3u8</link>
             </item>
             <item>
                 <title>VN - HBO HD - Phim</title>
@@ -295,48 +300,28 @@
             </item>
             <item>
                 <title>VN - AXN HD - Giai Tri Tong Hop</title>
-                <link>http://203.162.16.22/lives/origin01/bts-axnhd.isml/bts-axnhd.m3u8</link>
+                <link>http://203.162.235.26/lives/origin01/bts-axnhd.isml/bts-axnhd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_hd_asia.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - Fox Sport Plus HD - The Thao</title>
-                <link>http://113.160.49.34/lives/origin01/bts-espnhd.isml/bts-espnhd.m3u8</link>
+                <link>http://203.162.235.26/lives/origin01/bts-foxhd.isml/bts-foxhd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_asia_plus.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - Cinemax - Phim</title>
-                <link>http://123.29.75.131:1935/live/cinemax.stream/playlist.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.jpg</thumbnail>
-            </item>
-            <item>
                 <title>VN - Cartoon Network - Phim Hoat Hinh</title>
-                <link>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_asia.jpg</link>
+                <link>http://203.162.235.26/lives/origin02/cartoonsd.isml/cartoonsd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_asia.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - Star Movie - Phim</title>
-                <link>http://123.29.75.131:1935/live/starmovie.stream/playlist.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_movies_hd.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - Starworld - Giai Tri Tong Hop</title>
-                <link>http://123.29.75.131:1935/live/starworld.stream/playlist.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_world_asia_hd.jpg</thumbnail>
-            </item>
-            <item>
                 <title>VN - CNN - Tin Tuc</title>
-                <link>http://123.29.75.132/cnn_hd1.m3u8</link>
+                <link>http://203.162.235.26/lives/origin02/cnnsd.isml/cnnsd.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_asia_pacific.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - Channel V - Ca Nhac</title>
-                <link>http://123.29.75.136/channelv_hd1.m3u8</link>
+                <link>http://123.29.75.131:1935/live/channeltv.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_v_international.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - TLC - Du Lich Kham Pha</title>
-                <link>http://123.29.75.136/travel_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/tlc_us.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - MTV Asia - Ca Nhac</title>
@@ -344,29 +329,9 @@
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_vn.jpg</thumbnail>
             </item>
             <item>
-                <title>VN - NatGeo - Du Lich Kham Pha</title>
-                <link>http://123.29.75.136/ngc_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_asia.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - Discovery HD - Du Lich Kham Pha</title>
-                <link>http://203.162.16.22/lives/origin02/discoverysd.isml/discoverysd.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/discovery_hd_ne_asia.jpg</thumbnail>
-            </item>
-            <item>
                 <title>VN - Animal Planet - The Gioi Dong Vat</title>
-                <link>http://123.29.75.138/animal_hd1.m3u8</link>
+                <link>http://123.29.75.131:1935/live/animal.stream/playlist.m3u8</link>
                 <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - Fox Sport - The Thao</title>
-                <link>http://123.29.75.137/espn_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_middle_east.jpg</thumbnail>
-            </item>
-            <item>
-                <title>VN - True Sport 4 - The Thao</title>
-                <link>http://123.29.75.132/truesport_hd1.m3u8</link>
-                <thumbnail>http://www.lyngsat-logo.com/logo/tv/tt/true_sport4.jpg</thumbnail>
             </item>
             <item>
                 <title>VN - SCTV 1 - Hai</title>
@@ -441,6 +406,11 @@
             <item>
                 <title>VN - ITV Music</title>
                 <link>rtmp://210.245.82.6/live/itvw_hh playpath=itvw_hh swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.tivi24h.com/ live=true</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624891363005_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - ITV HD - Giai tri tong hop</title>
+                <link>http://203.162.235.26/lives/origin01/vtcitvhd.isml/vtcitvhd.m3u8</link>
                 <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624891363005_574_574.jpg</thumbnail>
             </item>
         </items>

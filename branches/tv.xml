@@ -1,0 +1,1228 @@
+<?xml version="1.0" ?>
+<channels>
+    <channel>
+        <name>Truyen Hinh Hai Ngoai</name>
+        <items>
+            <item>
+                <title>US - VietTV24</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=viettv24_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VietTV24Logo.png</thumbnail>
+            </item>
+			<item>
+                <title>US - Hai 24/7<title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=hai_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/Hai247.png</thumbnail>
+            </item>
+            <item>
+                <title>US - San Khau va Cuoc Doi</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=cailuong_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/sankhauvacuocdoi.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Vpop TV</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=vpoptv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VPopTVLogo.png</thumbnail>
+            </item>
+			<item>
+                <title>US - Vmusic TV</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=mtv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VMusicLogo.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Phat Tu Bi TV</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=ptb_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/PhatTuBi.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - VietFace TV (Cali)</title>
+                <link>rtmp://www.evietmusic.com/vietface playpath=vfaces_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VFTVCALI.png</thumbnail>
+            </item>
+            <item>
+                <title>US - VietFace TV (Satellite)</title>
+                <link>rtmp://www.evietmusic.com/vietface playpath=vfaces_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VFTVSatellite.png</thumbnail>
+            </item>
+            <item>
+                <title>US - SET TV</title>
+                <link>rtmp://www.evietmusic.com/set playpath=set_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://settv574.com/images/upload/Banner/banner.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Nhat Truong TV</title>
+                <link>rtmp://www.evietmusic.com/nhattruong playpath=ttt_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/nttvlogo.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - VietTOP</title>
+                <link>rtmp://www.evietmusic.com/vienthao playpath=vietop_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/viettop.png</thumbnail>
+            </item>
+			<item>
+                <title>US - Saigon TV</title>
+                <link>rtmp://74.63.219.99:1935/sgvp playpath=myStream.sdp swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://www.saigontv.us/ swfUrl=http://saigontv.us/includes/flash/saigontv.swf pageUrl=http://saigontv.us/ live=true</link>
+                <thumbnail>http://vietpho.com/images/channels/sgtv.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Little saigon TV</title>
+                <link>rtmp://stream.s15.cpanelservices.com/lstvlive/ playpath=livestream swfUrl=http://lstv.mediaserve.tv/player.swf pageUrl=http://lstv.mediaserve.tv/sample_players/live.html live=true swfVfy=true timeout=60</link>
+                <thumbnail>http://vietpho.com/images/channels/lstv.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Viet Power TV 56.5</title>
+                <link>rtmp://www.evietmusic.com/vietpower playpath=vpower_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VPTV.png</thumbnail>
+            </item>
+            <item>
+                <title>US - VNA TV 57.3</title>
+                <link>rtmp://www.evietmusic.com/vnatv playpath=vnatv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.latetfest.net/wp-content/uploads/2012/05/VNA-TV-Logo.png</thumbnail>
+            </item>
+            <item>
+                <title>US - VBS TV</title>
+                <link>rtmp://74.63.219.99:1935/vbsvp/myStream.sdp swfUrl=http://vbstelevision.com/ext/js/vbstv.swf pageUrl=http://www.vbstelevision.com//</link>
+                <thumbnail>http://vietpho.com/images/channels/vbs.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - IBC</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv15/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/phoviet.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-ibc.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Pho Viet</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv9/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/phoviet.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-phoviet.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Tu Bi</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv4/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-tubi.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - ESL TV</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv7/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-esl.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - An Binh Hanh Phuc</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv11/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-AnBinhHanhPhuc.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - VNBC</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv6/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-vnbc.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - VMTV (Karaoke HD)</title>
+                <link>rtmp://unirtmp.tulix.tv:1935/globaltv5/myStream.sdp swfUrl=http://www.streamwebtown.com/mediaplayer/player.swf pageUrl=http://globaltvlive.net/IptvLive/pages/tubi.htm</link>
+                <thumbnail>http://globaltvlive.net/IptvLive/image-GreenGlobal/channels/B-vmtv.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Ngoi Sao Tuong Lai TV</title>
+                <link>rtmp://www.evietmusic.com/ngstl playpath=ngstl_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/nstl.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Viet Christian</title>
+                <link>mms://live.vietchristian.com/tv</link>
+                <thumbnail>http://tv-online.in/wp-content/uploads/2012/12/VietChristian-TV.jpg</thumbnail>
+            </item>
+            <item>
+                <title>US - Viet Today</title>
+                <link>mms://shared.streamwebtown.com/dong_sg</link>
+                <thumbnail>http://echipstore.net/logo/viettoday.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Ket Noi Sang Tao (Coming soon)</title>
+                <link>rtmp://www.evietmusic.com/liveStream playpath=vpoptv_1 swfUrl=http://www.vpoptv.com/player.swf pageUrl=http://vpoptv.com/main/default.php?language=en swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://echipstore.net/logo/VPopTVLogo.png</thumbnail>
+            </item>
+            <item>
+                <title>US - Saigon Radio Seattle</title>
+                <link>http://206.71.180.246:8888/;&amp;topspeed=on</link>
+                <thumbnail>http://www.radioguide.fm/uploads/radiostation/srbs-radio.PNG</thumbnail>
+            </item>
+            <item>
+                <title>US - Saigon Radio Hai Ngoai</title>
+                <link>http://vpr.serverroom.us:7492/</link>
+                <thumbnail>http://www.saigonradio.com/images/icon.png</thumbnail>
+            </item>
+            <item>
+                <title>US - VNDC Radio</title>
+                <link>http://vndcradio2.serverroom.us:4480/</link>
+                <thumbnail>http://thienmusic5.free.fr/VNDC-Logo.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>Truyen Hinh Viet Nam</name>
+        <items>
+            <item>
+                <title>VN - VTC 1 - Giai Tri Tong Hop</title>
+                <link>rtmp://111.91.233.198:1935/live playpath=vtc11_h swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/live/1/VTC1.html live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_1.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 2 - Cong Nghe Thong Tin</title>
+                <link>http://203.162.235.26/lives/origin02/vtc2sd.isml/vtc2sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 3 - The Thao</title>
+                <link>http://203.162.235.26/lives/origin02/vtc3sd.isml/vtc3sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_3.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 4 - Yeah1 Family</title>
+                <link>http://203.162.235.26/lives/origin02/vtc4sd.isml/vtc4sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_4.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 5 - Giai tri</title>
+                <link>http://203.162.235.26/lives/origin02/vtc5sd.isml/vtc5sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_5.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 6 - Phim</title>
+                <link>http://203.162.235.26/lives/origin02/vtc6sd.isml/vtc6sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_6.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 7</title>
+                <link>http://203.162.235.26/lives/origin02/vtc7sd.isml/vtc7sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_7.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 8 - Thong Tin Kinh Te Chung Khoan</title>
+                <link>http://203.162.235.26/lives/origin02/vtc8sd.isml/vtc8sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_8.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 9 - Let's Viet</title>
+                <link>http://203.162.235.26/lives/origin02/vtc9sd.isml/vtc9sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_9.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 10 - Van Hoa Viet</title>
+                <link>rtmp://111.91.233.197:1935/live playpath=vtc101_l swfUrl=http://vtc.com.vn/player_akamai_low.swf pageUrl=http://vtc.com.vn/live/4/VTC10.html live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_10.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 11 (Kids TV) - Giai Tri Thieu Nhi</title>
+                <link>http://123.30.128.79:1935/live/vtc11_n.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_11.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 12 - Mua sam</title>
+                <link>http://203.162.16.22:80/lives/origin01/vtc12sd.isml/vtc12sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_12.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 14 - Phong chong thien tai</title>
+                <link>rtmp://117.103.224.31/live playpath=livestream swfUrl=http://hktivi.net/player.swf pageUrl=http://hktivi.net/kenh/vtc14.php</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_14.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTC 16 - Nong Nghiep Nong Thon</title>
+                <link>http://203.162.16.22:80/lives/origin01/vtc16sd.isml/vtc16sd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtc_16.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - ITV Music</title>
+                <link>rtmp://210.245.82.6/live/itvw_hh playpath=itvw_hh swfUrl=http://player.longtailvideo.com/player.swf pageUrl=http://www.tivi24h.com/ live=true</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624891363005_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - ITV HD - Giai tri tong hop</title>
+                <link>http://203.162.235.26/lives/origin01/vtcitvhd.isml/vtcitvhd.m3u8</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624891363005_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - LifeTV</title>
+                <link>rtmp://115.146.123.94:1935/live playpath=Stream1 swfUrl=http://lifetv.vn/jwplayer/playerlifeTV.swf pageUrl=http://lifetv.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://tv-online.in/wp-content/uploads/2012/11/Life-tv.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - OneTV</title>
+                <link>http://42.117.9.45/live/onetv_1000.stream/playlist.m3u8</link>
+                <thumbnail>http://www.onetv.vn/templates/ja_rasite/images/xlogo_onetv.png.pagespeed.ic.lvSgl5BR9w.png</thumbnail>
+            </item>
+            <item>
+                <title>VN - HTV 2</title>
+                <link>rtmp://m35.megafun.vn/hctv playpath=vstv001 swfUrl=https://123tivi.googlecode.com/svn/trunk/123tv/player.swf pageUrl=http://123tivi.blogspot.com/2013/05/kenh-htv2-online.html swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - HTV 7</title>
+                <link>rtmp://m12.megafun.vn/hctv playpath=vstv015?token=VPxUyeC227O1YLiDIskC0g swfUrl=http://hktivi.name.vn/player2.swf pageUrl=http://hktivi.name.vn/kenh/htv72.php swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_7.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - HTV 9</title>
+                <link>rtmpe://112.197.2.16:1935/live playpath=htv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htv_9.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - HTVC Thuan Viet HD</title>
+                <link>http://203.162.235.26/lives/origin01/bts-thuanviethd.isml/bts-thuanviethd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/htvc_thuan_viet.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTV 1 - Tong Hop</title>
+                <link>http://112.197.2.11:1935/live/vtv1.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv1_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTV 2 - Van Hoa - Giao Duc</title>
+                <link>http://112.197.2.11:1935/live/vtv2.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv2_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTV 3 - The Thao - Giai Tri</title>
+                <link>rtmpe://112.197.2.16:1935/live playpath=vtv3.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv3_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - VTV 4 - Nguoi Viet Hai Ngoai</title>
+                <link>http://112.197.2.11:1935/live/vtv4.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv4_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - ANTV</title>
+                <link>rtmpe://112.197.2.16:1935/live playpath=antv.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/antv_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Can Tho 1</title>
+                <link>rtmp://113.161.204.167:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv_cantho1_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Can Tho 2</title>
+                <link>rtmp://113.161.204.168:1935/live/ playpath=livestream swfUrl=http://vtvcantho.vn/Content/jwplayer/player.swf pageUrl=http://vtvcantho.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vtv_cantho2_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Da Nang</title>
+                <link>rtmp://222.255.167.149/live/ playpath=livestream swfUrl=http://www.vtvdanang.vn/upload/online/player.swf pageUrl=http://www.vtvdanang.vn/upload/online/long.htm swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/15/134762491252979_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Khanh Hoa (KTV)</title>
+                <link>rtmp://118.69.198.109:1935/live/ playpath=video swfUrl=http://ktv.org.vn/tv-online-portlet/js/KTVplayer.swf pageUrl=http://ktv.org.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/kk/khanh_hoa_tv_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Phu Yen</title>
+                <link>rtmp://113.161.4.102/live/ playpath=vtvphuyen.tv swfUrl=http://hktivi.name.vn/player.swf?file=vtvphuyen.tv&amp;streamer=rtmp://113.161.4.102/live/&amp;image=/hinhnen3.png&amp;type=rtmp&amp;volume=100&amp;autostart=true&amp;stretching=exactfit&amp;controlbar=over&amp;auto pageUrl=http://hktivi.name.vn/kenh/vtvphuyen.html swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f11.photo.zdn.vn/upload/original/2012/09/26/21/22/1348669333797886_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Vinh Long 1</title>
+                <link>rtmp://123.30.108.77/live/THVL1/THVL1 live=1</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vinh_long_tv1.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Vinh Long 2</title>
+                <link>rtmp://123.30.108.77/live/THVL2/THVL2 live=1</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/vinh_long_tv2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Ha Noi 1</title>
+                <link>rtmp://111.91.233.197:1935/live/hanoi11_l swfUrl=http://www.vtc.com.vn/player_akamai_low.swf pageUrl=http://www.vtc.com.vn/ swfVfy=true live=true</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hanoi_tv1.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Ha Noi 2</title>
+                <link>rtmp://m35.megafun.vn/hctv/vstv012 swfUrl=http://player.longtailvideo.com/player.swf?file=vstv012&streamer=rtmp://m35.megafun.vn/hctv&autostart=true&image=http://www1.tivi24h.com/stop_tivi24h.gif&skin=http://content.longtailvideo.com/skins/glow/glow.zip PageUrl=http://www.tivi24h.com/2009/12/xem-tivi-online-kenh-truyen-hinh-ha-noi.html</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hanoi_tv2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Binh Phuoc 1</title>
+                <link>rtmp://113.161.180.136/live/ playpath=thbp1.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv1.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Binh Phuoc 2</title>
+                <link>rtmp://113.161.180.136/live/ playpath=thbp2.tv swfUrl=http://www.bptv.com.vn/vplayer.swf pageUrl=http://www.bptv.com.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/bb/binh_phuoc_tv2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Bac Lieu</title>
+                <link>rtmp://113.161.218.10/live/ playpath=BTV.test swfUrl=http://thbl.vn/vplayer.swf pageUrl=http://thbl.vn/ swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://1.bp.blogspot.com/-_HUKefEjPio/T654qmX1vBI/AAAAAAAAApU/QNHVCc3iZYs/s320/btv_baclieu.png</thumbnail>
+            </item>
+            <item>
+                <title>VN - Lang Son</title>
+                <link>rtmp://123.18.206.40/live/ playpath=livestream swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/langson.php swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624892507900_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - NCT</title>
+                <link>rtmp://123.30.134.108:1935/live playpath=nctlive swfUrl=http://hktivi.name.vn/player.swf pageUrl=http://hktivi.name.vn/kenh/nhaccuatui.php live=true timeout=30</link>
+                <thumbnail>https://lh6.googleusercontent.com/-M0u51WLChYk/UF1fuzwFt_I/AAAAAAAABSM/C73T_B7yJ40/s128/nhaccuatui.png</thumbnail>
+            </item>
+            <item>
+                <title>VN - HBO HD - Phim</title>
+                <link>http://203.162.16.22:80/lives/origin03/bts-hbohd.isml/bts-hbohd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/hh/hbo_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - AXN HD - Giai Tri Tong Hop</title>
+                <link>http://203.162.235.26/lives/origin01/bts-axnhd.isml/bts-axnhd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/axn_hd_asia.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - StarMovie HD - Phim</title>
+                <link>http://cdn-tv.vn-hd.com/livetv/starmoviehd_800.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_movies_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - StarWorld HD - Giai Tri Tong Hop</title>
+                <link>http://cdn-tv.vn-hd.com/livetv/starworldhd_800.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/star_world_asia_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Fox Sport Plus HD - The Thao</title>
+                <link>http://203.162.235.26/lives/origin01/bts-foxhd.isml/bts-foxhd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_sports_asia_plus.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - MTV Viet Nam</title>
+                <link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/mtv.360p/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/mm/mtv_vn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Cartoon Network - Phim Hoat Hinh</title>
+                <link>http://203.162.235.26/lives/origin02/cartoonsd.isml/cartoonsd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_asia.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - CNN - Tin Tuc</title>
+                <link>http://203.162.235.26/lives/origin02/cnnsd.isml/cnnsd.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_asia_pacific.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Channel V - Ca Nhac</title>
+                <link>http://cdn-tv.vn-hd.com/livetv/channelv_800.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/channel_v_international.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - NatGeo - Kham Pha Du Lich</title>
+                <link>http://livemobi.hayhaytv.vn:1935/hayhaytv_live/national.geographic.360p/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_asia.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - Discovery - Kham Pha</title>
+                <link>http://203.162.16.22:80/lives/origin03/discoverysd.isml/discoverysd.m3u8</link>
+                <thumbnail>http://typophile.com/files/discovery_channel_logo_5948.gif</thumbnail>
+            </item>
+            <item>
+                <title>VN - Animal Planet - The Gioi Dong Vat</title>
+                <link>http://123.29.75.131:1935/live/animal.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 1 - Hai</title>
+                <link>http://112.197.2.16:1935/live/SDsctv1.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sctv_1.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 2 - Am Nhac Quoc Te</title>
+                <link>http://112.197.2.16:1935/live/SDsctv2.stream/playlist.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sctv_2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 3 - Sao TV Thieu Nhi</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv3.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624899314751_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 4 - Kenh Tong Hop</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv4.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624899431287_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 6 - Kenh Song Nhac</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv6.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624899992426_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 7 - San Khau Van Nghe Tong Hop</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv7.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sctv_7.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 9 - Phim Chau A</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv9.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sctv_9.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 13 - Phu Nu va Gia Dinh</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv13.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624897322147_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 14 - Phim Tieng Viet</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv14.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/13476248972417_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 15 - The Thao</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv15.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://tv24.vn/WebMedia/Channels/20/bsctv15.png</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 16 - Phim Truyen Nuoc Ngoai</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv16.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624898254825_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 17 - Phim Truyen Chon Loc</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv0.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://d.f12.photo.zdn.vn/upload/original/2012/09/14/19/14/1347624898120323_574_574.jpg</thumbnail>
+            </item>
+            <item>
+                <title>VN - SCTV 18 - The Thao HD</title>
+                <link>rtmpe://112.197.2.11/live playpath=sctv18.stream swfUrl=http://tv24.vn/getflash.ashx pageUrl=http://tv24.vn token=!3zxcvbnm4@ flashVer=LNX_11,2,202,233 swfVfy=true live=true timeout=60</link>
+                <thumbnail>http://tv24.vn/WebMedia/Channels/22/sctvhdthethao.png</thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>USA (Sports, News, Entertainment)</name>
+        <items>
+			<item>
+			    <title>Eurosport</title>
+			    <link>http://esioslive2-i.akamaihd.net/hls/live/201149/AL_ESP1_INT_ENG/playlist_1800.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_international.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Eurosport HD</title>
+			    <link>http://esioslive2-i.akamaihd.net/hls/live/200728/AL_ESP1_UK_ENG/playlist_2500.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport_international.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Eurosport 2</title>
+			    <link>http://esioslive2-i.akamaihd.net/hls/live/201150/AL_ESP2_INT_ENG/playlist_1800.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Eurosport 2 HD</title>
+			    <link>http://esioslive4-i.akamaihd.net/hls/live/200736/AL_ESP2_UK_ENG/playlist_2500.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ee/eurosport2.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Sky Sport 1</title>
+			    <link>http://91.109.20.49/hls/14.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports1.jpg</thumbnail>
+			</item>
+			<item>
+				<title>Sky Sports 4</title>
+				<link>rtmp://46.246.124.16:443/liverepeater playpath=20719 swfUrl=http://97ff0e7e610f20512dbe-483e6ce63d68aeb3d05af6c054efb801.r29.cf1.rackcdn.com/halilou.swf live=1 pageUrl=http://movietrailers.yt/player2.php?id=20719&width=620&height=490 token=$t0nl%$@#q</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports4.jpg</thumbnail>
+			</item>
+			<item>
+				<title>Sky Sports F1</title>
+				<link>rtmp://31.7.58.122:1935/stream/ffe84f5ed.stream swfUrl=http://thecdn.04stream.com/p/bop.swf live=true timeout=10</link>
+				<thumbnail>http://www.lyngsat-logo.com/logo/tv/ss/sky_uk_sports_f1.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>NBA</title>
+			    <link>http://nba247.cdnak.nbahd.neulion.com/mobile/nba/nba247/as/live/ipad_1240.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nba_tv.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>NFL Network</title>
+			    <link>rtmp://46.246.29.130:1935/stream playpath=bdpZdSfpz0.stream swfUrl=http://thecdn.04stream.com/p/boopo.swf</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nfl_network.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>NHL Network</title>
+			    <link>http://smb.cdnak.neulion.com/fs/nhl/mobile/iphone/video/nhlnetwork/ipad_1840.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nhl_network.jpg</thumbnail>
+			</item>
+			<item>
+				<title>ESPN HD</title>
+				<link>rtmp://edge.isearch.to/edge/xoaaohmeuajfeyf swfUrl=http://www.ilive.to/jwplayer/player.swf live=true pageUrl=http://www.ilive.to/ live=1 timeout=10</link>
+				<thumbnail>http://www.lyngsat-logo.com/hires/ee/espn_us.png</thumbnail>
+			</item>
+			<item>
+			    <title>Viasat Hockey</title>
+			    <link>mms://194.14.241.163/45266live_ViasathockeySE</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_hockey.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Viasat Motor</title>
+			    <link>mms://194.14.241.163/45266live_ViasatmotorNO</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/vv/viasat_motor_hd.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Real Madrid TV</title>
+			    <link>http://rmtv1live.realmadrid.com/streams/rmtv1ipad/rmtv1ipad.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/rr/real_madrid_tv_english.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Chelsea TV</title>
+			    <link>rtmp://cp96798.live.edgefcs.net/l2 playpath=ChelTV_Ch01_1000k@26291 swfUrl=http://player.longtailvideo.com/player.swf</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/chelsea_tv.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Pro Wrestling TV</title>
+			    <link>rtmp://80.93.53.88:1935/live/wrestling.stream</link>
+			    <thumbnail>http://pro-wrestling.tv/images/pwtv2012-1.png</thumbnail>
+			</item>
+			<item>
+			    <title>Fight Box</title>
+			    <link>http://spiinternational-i.akamaihd.net/hls/live/204308/FIGHTBOXHD_MT_HLS/once1200.m3u8</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fight_box_hd.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Outdoor Channel</title>
+			    <link>rtsp://lm02.everyon.tv:1935/ptv2/pld613</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel_international.jpg</thumbnail>
+			</item>
+			<item>
+			    <title>Outdoor Channel HD</title>
+			    <link>http://fw01.livem3u8.me.totiptv.com/live//1c551f42019d40e8acf32e8218ef8703.m3u8?bitrate=800</link>
+			    <thumbnail>http://www.lyngsat-logo.com/logo/tv/oo/outdoor_channel_international.jpg</thumbnail>
+			</item>
+            <item>
+                <title>BPS port</title>
+                <link>mmsh://cht-cdn220-is-2.se.bptvlive.ngcdn.telstra.com/bp_online_bpsport_med</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CNN International</title>
+                <link>rtmp://a.cdn.msnbclive.eu/edge/cnni_live swfUrl=http://msnbclive.eu/player.swf swfVfy=true live=true pageUrl=http://blog.livenewschat.tv/international-room-chat/</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_international_us.jpg</thumbnail>
+            </item>
+            <item>
+                <title>CNN Live US</title>
+                <link>http://livestation_hls-lh.akamaihd.net/i/cnn_en@105455/master.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnn_usa.jpg</thumbnail>
+            </item>
+            <item>
+                <title>CNBC Live US</title>
+                <link>rtmp://a.cdn.msnbclive.eu/edge/cnbc_live swfUrl=http://msnbclive.eu/player.swf swfVfy=true live=true pageUrl=http://blog.livenewschat.tv/stock-traders-chat/</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/cnbc.jpg</thumbnail>
+            </item>
+            <item>
+                <title>ITV 1</title>
+                <link>rtmp://mi7.gv.filmon.com:1935/live/_definst_/1817.low.stream</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv_uk.jpg</thumbnail>
+            </item>
+            <item>
+                <title>ITV 2</title>
+                <link>rtmp://mi7.gv.filmon.com:1935/live/_definst_/1820.low.stream</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>ITV 3</title>
+                <link>rtmp://mi7.gv.filmon.com:1935/live/_definst_/1823.low.stream</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv3.jpg</thumbnail>
+            </item>
+            <item>
+                <title>ITV 4</title>
+                <link>rtmp://mi7.gv.filmon.com:1935/live/_definst_/1826.low.stream</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ii/itv4.jpg</thumbnail>
+            </item>
+            <item>
+                <title>DocuBox HD</title>
+                <link>http://spiinternational-i.akamaihd.net/hls/live/204306/DOCUBOXHD_MT_HLS/once1200.m3u8</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/dd/docu_box_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>NAT GEO Adventure</title>
+                <link>http://fw01.livem3u8.me.totiptv.com/live//7ad09373f65c48d5bb6aa6c3b2ca519a.m3u8?bitrate=800</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/nn/nat_geo_adventure.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Animal Planet</title>
+                <link>rtmp://s01.webport.tv/promo/mtv</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/animal_planet_us_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Food Network HD</title>
+                <link>rtmp://edge.isearch.to/edge playpath=y60lx8lkyexxnry swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/food_network_us_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Fox HD</title>
+                <link>rtmp://edge.isearch.to/edge/tzk4z1tgmhvuibv swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fox_asia_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>FX HD</title>
+                <link>rtmp://edge.isearch.to/edge/xlawa3krny5pxjy swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ff/fx_asia_hd.jpg</thumbnail>
+            </item>
+            <item>
+                <title>ABC</title>
+                <link>rtmp://edge.isearch.to/edge/aipujcyjcc27zvu swfUrl=http://player.ilive.to/player_ilive_2.swf pageUrl=http://www.ilive.to</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/aa/abc_family.jpg</thumbnail>
+            </item>
+            <item>
+                <title>CBS News USA</title>
+                <link>rtmp://edge.isearch.to/edge playpath=nx82e47g1025mdc swfUrl=http://player.ilive.to/player_ilive.swf live=1 pageUrl=http://www.ilive.to/view/45469/watch-live-CBS-streaming-channel-for-free</link>
+                <thumbnail>http://static-cdn1.ustream.tv/i/explore/custom/5/2/2/5/522594/522594_channel_en_US_wide,610x343,r:1363695004.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Comedy Central HD</title>
+                <link>http://fw01.livem3u8.me.totiptv.com/live//2f18d4ba25224edaa8bb9aac94b00d4f.m3u8?bitrate=800</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/cc/comedy_central_us.jpg</thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>China</name>
+        <items>
+            <item>
+                <title>CCTV1</title>
+                <link>http://video.hzitv.cn/live/28ee5e7b4e344c87925be032dc417593?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV2</title>
+                <link>http://video.hzitv.cn/live/0d4f8db22081403ba78d9f92baae3281?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV3</title>
+                <link>http://video.hzitv.cn/live/ef3b3f5e9b054dc6897aa8b50de5ad30?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV4</title>
+                <link>http://video.hzitv.cn/live/92f4a73c96e9499081531cd2f64a4132?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV5</title>
+                <link>http://video.hzitv.cn/live/fad98f8f525948e6a2baa611b14ce553?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV6</title>
+                <link>http://video.hzitv.cn/live/0908f2978646479599a38a0e06e6a2e5?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV7</title>
+                <link>http://video.hzitv.cn/live/62dd35c4a1f04ca899d0356e7257edbd?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV8</title>
+                <link>http://video.hzitv.cn/live/ceb0bf2e2afd4b4f9beee37f9435cf40?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV9</title>
+                <link>http://video.hzitv.cn/live/4f84bbbd63ba45b1ac678123cd8ddbef?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV10</title>
+                <link>http://video.hzitv.cn/live/258b19949e584c3a84eb599ea48ba7d8?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV11</title>
+                <link>http://video.hzitv.cn/live/a30f8b4e8e6c43fa8ee5730bd5de2ab8?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV12</title>
+                <link>http://video.hzitv.cn/live/2a62acb38f174951a837f23387e12f1e?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV13</title>
+                <link>http://video.hzitv.cn/live/2f1917c1b30b471b8a01168543e7cc03?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV14</title>
+                <link>http://video.hzitv.cn/live/59811514bbe941bb97dbdc6a89c35d4e?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>CCTV15</title>
+                <link>http://video.hzitv.cn/live/6a7830c6fa6f4147b6c47ac5763564e7?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 1</title>
+                <link>http://video.hzitv.cn/live/bd5f7f3af3f0446ea268c981af88bde0?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 2</title>
+                <link>http://video.hzitv.cn/live/f6a83b0cd4db4db6be727438256a1d8d?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 3</title>
+                <link>http://video.hzitv.cn/live/e172b5914ff44fa7b49b3202b00fb6c8?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 4</title>
+                <link>http://video.hzitv.cn/live/4b48af5fd06b43aa91d1fa50e5a5be97?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 5</title>
+                <link>http://video.hzitv.cn/live/890fdd51233141f99600880b7de1f603?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 6</title>
+                <link>http://video.hzitv.cn/live/c0b2d54321ee41af929436265a2bf7bf?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 7</title>
+                <link>http://video.hzitv.cn/live/b52ea3c878264ef7b10020e49e31844f?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 8</title>
+                <link>http://video.hzitv.cn/live/d845c97312fa4af89197e34c25c0b301?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 9</title>
+                <link>http://video.hzitv.cn/live/5d2f5fa7724749c0b27d04436c5866ef?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 10</title>
+                <link>http://video.hzitv.cn/live/3eb26c090b9b407d99ea5a16536bb7da?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 11</title>
+                <link>http://video.hzitv.cn/live/1dcba446ef5e419bb6bdc9caa5350539?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 12</title>
+                <link>http://video.hzitv.cn/live/a6a47753b92545d284a61aaa5ba21339?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 13</title>
+                <link>http://video.hzitv.cn/live/a03e73211432423f84ab1c8805b917f4?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 14</title>
+                <link>http://video.hzitv.cn/live/92b43b719c1043d9a15595304f96d61e?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 15</title>
+                <link>http://video.hzitv.cn/live/bbadfc6d4fce4bf8863be092e9d58277?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 16</title>
+                <link>http://video.hzitv.cn/live/d8884068c5d643349c68e8ac60c22fa0?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 17</title>
+                <link>http://video.hzitv.cn/live/fba77cee27984e99ba50c95f37730acb?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>China 18</title>
+                <link>http://video.hzitv.cn/live/871266fe31fe4095967f7cb87ea8a93e?fmt=H264_800K_FLV</link>
+                <thumbnail></thumbnail>
+            </item>
+        </items>
+    </channel>
+    <channel>
+        <name>Khmer - Lao - Thailand</name>
+        <items>
+            <item>
+                <title>CTN</title>
+                <link>http://globecast.ml.llnwd.net/globecast/_definst_/stream4.stream/playlist.m3u8?wowzasessionid=82281634 live=true</link>
+                <thumbnail>http://www.ctn.com.kh/images/CTNinstall.png</thumbnail>
+            </item>
+            <item>
+                <title>Movie 10</title>
+                <link>http://e-magic.info:44412/Movie10</link>
+                <thumbnail>http://khiptv.com/images_tv/Bayon_Replay.png</thumbnail>
+            </item>
+            <item>
+                <title>Movie 17</title>
+                <link>http://e-magic.info:44412/Movies17</link>
+                <thumbnail>http://khiptv.com/images_tv/Bayon_Replay.png</thumbnail>
+            </item>
+            <item>
+                <title>Movie 9</title>
+                <link>http://e-magic.info:44412/Movie9</link>
+                <thumbnail>http://khiptv.com/images_tv/Bayon_Replay.png</thumbnail>
+            </item>
+            <item>
+                <title>Kok</title>
+                <link>http://e-magic.info:44412/Movie9</link>
+                <thumbnail>http://khiptv.com/images_tv/Bayon_Replay.png</thumbnail>
+            </item>
+            <item>
+                <title>Karaoke</title>
+                <link>mms://72.52.104.19/ok</link>
+                <thumbnail>
+                    http://khiptv.com/images_tv/Bayon_Replay.png
+                </thumbnail>
+            </item>
+            <item>
+                <title>TVK</title>
+                <link>http://e-magic.info:44412/tvk_Pub</link>
+                <thumbnail>http://khiptv.com/images_tv/TVK.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Bayon</title>
+                <link>http://e-magic.info:44412/Bayon_Pub</link>
+                <thumbnail>
+                    http://khiptv.com/images_tv/bayon-tv.png
+                </thumbnail>
+            </item>
+            <item>
+                <title>TV5</title>
+                <link>http://e-magic.info:44412/tv5_Pub</link>
+                <thumbnail>http://khiptv.com/images_tv/TV5.png</thumbnail>
+            </item>
+            <item>
+                <title>bayon_NEWS</title>
+                <link>http://e-magic.info:44412/bayon_NEWS</link>
+                <thumbnail>
+                    http://khiptv.com/images_tv/BayonTV1.png
+                </thumbnail>
+            </item>
+            <item>
+                <title>bayon Replay</title>
+                <link>http://e-magic.info:44412/Bayon_RE</link>
+                <thumbnail>
+                    http://khiptv.com/images_tv/BayonTV1.png
+                </thumbnail>
+            </item>
+            <item>
+                <title>TV9</title>
+                <link>http://e-magic.info:44412/tv9_Pub</link>
+                <thumbnail>http://khiptv.com/images_tv/TV9.png</thumbnail>
+            </item>
+            <item>
+                <title>Apsara</title>
+                <link>http://e-magic.info:44412/Apsara_Pub</link>
+                <thumbnail>http://khiptv.com/images_tv/APSARA.JPG</thumbnail>
+            </item>
+            <item>
+                <title>KGN_HK</title>
+                <link>http://e-magic.info:44412/KGN_HK</link>
+                <thumbnail>http://khiptv.com/images_tv/KGNCAN.png</thumbnail>
+            </item>
+            <item>
+                <title>ABC_TV</title>
+                <link>http://e-magic.info:44412/ABC_TV</link>
+                <thumbnail>http://khiptv.com/images_tv/ABC.png</thumbnail>
+            </item>
+            <item>
+                <title>NAT_TV</title>
+                <link>http://e-magic.info:44412/NAT_TV</link>
+                <thumbnail>http://khiptv.com/images_tv/nat.png</thumbnail>
+            </item>
+            <item>
+                <title>MeKong_TV</title>
+                <link>http://e-magic.info:44412/MeKong_TV</link>
+                <thumbnail>http://khiptv.com/images_TV/MK.png</thumbnail>
+            </item>
+            <item>
+                <title>Good_Idea</title>
+                <link>http://e-magic.info:44412/Good_Idea</link>
+                <thumbnail>http://khiptv.com/images_tv/goodidea.png</thumbnail>
+            </item>
+            <item>
+                <title>nlakorn</title>
+                <link>http://184.105.192.5:44412/nlakorn</link>
+                <thumbnail>http://khiptv.com/images_TV/lakorn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>MK TV</title>
+                <link>mms://72.52.104.25/mktv</link>
+                <thumbnail>http://khiptv.com/images_TV/lakorn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Sabaidee Lao TV</title>
+                <link>rtmp://livefta.malimarserver.com/ftaedge/laous.sdp swfUrl=http://www.laoscities.com/sabaideelaotv/wp-content/themes/shopperpress/thumbs/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.sabaideelaotv.com/ swfVfy=true live=true</link>
+                <thumbnail>none</thumbnail>
+            </item>
+            <item>
+                <title>Malimar TV None Stop Music Live from Laos</title>
+                <link>rtmp://livefta.malimarserver.com/ftaedge/malimar.sdp swfUrl=http://aseaniptv.com/modules/mod_playerjr_ad/player-licensed5.swf pageUrl=http://aseaniptv.com/laotv swfVfy=true live=true</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lao_star_channel.jpg</thumbnail>
+            </item>
+            <item>
+                <title>PSTV Live from Laos</title>
+                <link>rtmp://livefta.malimarserver.com/liveedge/laopstv.stream swfUrl=http://aseaniptv.com/modules/mod_playerjr_ad/player-licensed5.swf swfVfy=true live=true pageUrl=http://aseaniptv.com/laotv</link>
+                <thumbnail>http://www.lyngsat-logo.com/logo/tv/ll/lao_star_channel.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Laostar LNTV Live from Laos</title>
+                <link>rtmp://livefta.malimarserver.com/liveedge/lntv3.stream swfUrl=http://aseaniptv.com/modules/mod_playerjr_ad/player-licensed5.swf swfVfy=true live=true pageUrl=http://aseaniptv.com/laotv</link>
+                <thumbnail>http://www.lyngsat-logo.com/hires/ll/lao_national_tv.png</thumbnail>
+            </item>
+            <item>
+                <title>Good Idea TV</title>
+                <link>rtmp://98.112.144.58/live/server1/livestream swfUrl=http://www.goodideatv.tv/jwplayer/jwplayer.flash.swf swfVfy=true live=true pageUrl=http://www.goodideatv.tv/</link>
+                <thumbnail>http://www.goodideatvonline.com/images/index_05.gif</thumbnail>
+            </item>
+            <item>
+                <title>Nu Vision TV</title>
+                <link>rtmp://69.64.68.92:1935/live/nuvision2.stream swfUrl=http://www.laoscities.com/wp-content/themes/directorypress/thumbs//jw-player-plugin-for-wordpress/player/player.swf swfVfy=true live=true pageUrl=http://www.laoscities.com/live-tv/good-idea-tv/</link>
+                <thumbnail>http://nuvisiontv.com/images/ewLogo.png</thumbnail>
+            </item>
+            <item>
+                <title>Thai PBS</title>
+                <link>rtmp://02-live-11.dootvserver.com:80/usliveTPBS/usliveTPBSstream swfUrl=ttp://www.dootv.com/mediaplayer/player.swf swfVfy=true live=true pageUrl=http://www.dootv.com/desktop/ontv.php?tv_channel_id=6&amp;country_server=US</link>
+                <thumbnail>http://static.moje-lektire.com/net.tv-tube/tv_repo/3348/thumb.png</thumbnail>
+            </item>
+            <item>
+                <title>Thai TV 3</title>
+                <link>rtmp://111.223.37.194:80/liverepeater/ playpath=ruenglao swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://tvthaionline.net/tv/ch3.html</link>
+                <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-3-2.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Thai TV 5</title>
+                <link>rtmp://app.tv5.co.th:1935/livestreamrecord playpath=videolive5 swfUrl=http://www.tv5.co.th/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/tv5.html</link>
+                <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/Channel-5.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Thai TV MCOT</title>
+                <link>rtmp://203.151.133.7:1935/live playpath=ch9_1 swfUrl=http://player.longtailvideo.com/player.swf live=true timeout=15 pageUrl=http://www.thaitvonline.tv/asx/true-mcot.html</link>
+                <thumbnail>http://www.thaitvonline.tv/wp-content/uploads/2010/02/thai-channel-9.jpg</thumbnail>
+            </item>
+            <item>
+                <title>SMM TV Thai (Try 2 times)</title>
+                <link>rtmp://as5.seesantv.com:1935/live2/chsmmtv1</link>
+                <thumbnail></thumbnail>
+            </item>
+            <item>
+                <title>Yaak TV</title>
+                <link>rtmp://202.142.207.150/live/liveyaaktv1</link>
+            </item>
+            <item>
+                <title>Thai Ch8</title>
+                <link>rtmp://202.142.207.150/live/liveinfinity2</link>
+            </item>
+            <item>
+                <title>Sabaidee TV</title>
+                <link>rtmp://202.142.207.150/live/livesabaidee1</link>
+            </item>
+            <item>
+                <title>Thailand - TGN</title>
+                <link>rtmp://APP.TV5.CO.TH:1935/live playpath=tgnlive swfUrl=http://www.tv5.co.th/player.swf pageUrl=http://www.tv5.co.th/tgnlive.php</link>
+            </item>
+            <item>
+                <title>TV Muslim</title>
+                <link>rtmp://203.146.129.248/live5 playpath=livestream swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.5.swf pageUrl=http://tvmuslim.org/flashstream/ swfVfy=true live=true</link>
+            </item>
+            <item>
+                <title>Thailand - Voice Channel TV</title>
+                <link>rtmp://stream.voicetv.co.th/live playpath=stream swfUrl=http://wwitv.com/player/player22.swf?streamer=rtmp%3A%2F%2Fstream.voicetv.co.th%2Flive&amp;file=stream&amp;type=video&amp;autostart=true&amp;stretching=exactfit pageUrl=http://livetv.im/live-online-channel-Voice-channel-tv swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>Thai_Channel [V] Reyokh</title>
+                <link>rtmp://live.netdesignhost.com/channelvthailandlive/channelvthailandlive</link>
+            </item>
+            <item>
+                <title>TCI</title>
+                <link>rtmp://61.90.153.168:1935/live/myStream</link>
+            </item>
+            <item>
+                <title>Thai_Nation Channel</title>
+                <link>http://61.47.34.30/N256</link>
+            </item>
+            <item>
+                <title>Thai_NBT evening news</title>
+                <link>mms://mms.prd.go.th/archivetv11/evening.wmv</link>
+            </item>
+            <item>
+                <title>Thai_SBT TV</title>
+                <link>mms://broadcast.luangta.com/live-sbt3?WMContentBitrate=128000</link>
+            </item>
+            <item>
+                <title>Thai_SDIB 1</title>
+                <link>mms://sdib.dusit.ac.th/uc_ch1_E120?wmcontentbitrate=320000</link>
+            </item>
+            <item>
+                <title>Thai_SDIB 3</title>
+                <link>mms://sdib.dusit.ac.th/uc_ch3_E120?</link>
+            </item>
+            <item>
+                <title>Thai_TCI</title>
+                <link>rtmp://61.90.153.168:1935/live/myStream</link>
+            </item>
+            <item>
+                <title>Thailand - You2Play TV</title>
+                <link>rtmp://203.151.21.9/live playpath=You2PlayTV swfUrl=http://static.you2play.com/flowplayer/flowplayer.swf pageUrl=http://www1.you2play.com/you2playtv/live/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>Thailand - ETV</title>
+                <link>rtmp://61.19.244.112/live playpath=livestream swfUrl=http://flash.login.in.th/flashstreaming/player.swf pageUrl=http://www.etvthai.tv/stream/home.aspx swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>Thailand - Panda Live</title>
+                <link>http://203.113.25.41:8080/webLive?URL=http%3A%2F%2Fwww.zoothailand.org%2Fpanda%2FVideoLink.php%3FLinkVideo%3Dchiangmai</link>
+            </item>
+            <item>
+                <title>Thailand - SBT TV (Luangta.com)</title>
+                <link>rtmp://202.44.53.229/live playpath=livestream swfUrl=http://www.luangta.com/live-flash/flowplayer-3.2.5.swf?0.7269846706453567 pageUrl=http://www.luangta.com/live-flash/ swfVfy=true live=true timeout=60</link>
+            </item>
+            <item>
+                <title>Khmer FM107 Radio</title>
+                <link>http://KhipTV.org:44412/RC_FM107</link>
+                <thumbnail>http://khiptv.com/images_tv/Bayon_Replay.png</thumbnail>
+            </item>
+            <item>
+                <title>Bayon Radio</title>
+                <link>http://KhipTV.org:44412/RC_FM95</link>
+                <thumbnail>http://khiptv.com/images_tv/TVK.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Phnom Penh Radio FM103</title>
+                <link>http://KhipTV.org:44412/RCFM103</link>
+                <thumbnail>http://khiptv.com/images_tv/bayon-tv.png</thumbnail>
+            </item>
+            <item>
+                <title>ABC Cambodia Radio</title>
+                <link>http://KhipTV.org:44412/RC_FM1075</link>
+                <thumbnail>http://khiptv.com/images_tv/TV5.png</thumbnail>
+            </item>
+            <item>
+                <title>DAP Radio - FM93.75</title>
+                <link>http://KhipTV.org:44412/dap</link>
+                <thumbnail>http://khiptv.com/images_tv/BayonTV1.png</thumbnail>
+            </item>
+            <item>
+                <title>Sovann Phum Radio - FM104</title>
+                <link>http://KhipTV.org:44412/RC_FM104</link>
+                <thumbnail>http://khiptv.com/images_tv/TV9.png</thumbnail>
+            </item>
+            <item>
+                <title>Sovann Angkor FM106 - Battambong</title>
+                <link>http://KhipTV.org:44412/KEO</link>
+                <thumbnail>http://khiptv.com/images_tv/APSARA.JPG</thumbnail>
+            </item>
+            <item>
+                <title>Apsara Radio FM 97 MHz</title>
+                <link>http://KhipTV.org:44412/RCFM97</link>
+                <thumbnail>http://khiptv.com/images_tv/KGNCAN.png</thumbnail>
+            </item>
+            <item>
+                <title>Nokorwat Radio FM101 MHz</title>
+                <link>http://KhipTV.org:44412/psp</link>
+                <thumbnail>http://khiptv.com/images_tv/ABC.png</thumbnail>
+            </item>
+            <item>
+                <title>KMAT Radio FM90MHz</title>
+                <link>http://KhipTV.org:44412/KMAT</link>
+                <thumbnail>http://khiptv.com/images_tv/nat.png</thumbnail>
+            </item>
+            <item>
+                <title>National Radio FM96</title>
+                <link>http://KhipTV.org:44412/RCFM96</link>
+                <thumbnail>http://khiptv.com/images_TV/MK.png</thumbnail>
+            </item>
+            <item>
+                <title>Women 's Radio FM102</title>
+                <link>http://KhipTV.org:44412/RCFM102</link>
+                <thumbnail>http://khiptv.com/images_tv/goodidea.png</thumbnail>
+            </item>
+            <item>
+                <title>Ta Prohm Radio FM90.5</title>
+                <link>http://KhipTV.org:44412/taprohm</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>STARFM Radio</title>
+                <link>http://110.74.223.162:88/broadwave.mp3?src=2&amp;rate=1&amp;ref=</link>
+                <thumbnail>http://khiptv.com/images_TV/lakorn.jpg</thumbnail>
+            </item>
+            <item>
+                <title>Mean Chey FM99 MHz Radio</title>
+                <link>http://KhipTV.org:44412/MCH</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>VOY FM 105.25MHz</title>
+                <link>http://KhipTV.org:44412/fm105.3</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Kolyanmet FM88.5</title>
+                <link>http://KhipTV.org:44412/KEOV</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Voice of Dombang Kronhoung FM 100MHz</title>
+                <link>http://KhipTV.org:44412/Dombang</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>UFM 106.5MHz BMC</title>
+                <link>http://KhipTV.org:44412/ufmradio</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Our Radio - FM106.75 Mhz</title>
+                <link>http://KhipTV.org:44412/our-radio</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Beehive FM105</title>
+                <link>http://KhipTV.org:44412/BFM105</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Mongkul Sovann - FM93.5 - Battambong</title>
+                <link>http://KhipTV.org:44412/FM 93.5 MHz</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Mongkul Sovann - FM105.5 - Champong Soum</title>
+                <link>http://KhipTV.org:44412/FM 105.5 MHzA</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Sangke Radio - FM104.5 MHz - Battambong</title>
+                <link>http://KhipTV.org:44412/Sangke Radio FM104.5MHz</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Ta Prohm Radio FM90.5</title>
+                <link>http://KhipTV.org:44412/taprohm</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Ratanakiri Radio FM 97.5</title>
+                <link>http://KhipTV.org:44412/ratanakiri</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Mongkulsovann FM 91.75 MHz Banteay Meanchey</title>
+                <link>http://KhipTV.org:44412/FM 91.75 Mhz</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+            <item>
+                <title>Siem Reap Radio</title>
+                <link>http://KhipTV.org:44412/SIEM RAEP</link>
+                <thumbnail>http://khiptv.com/images_tv/KNN.PNG</thumbnail>
+            </item>
+        </items>
+    </channel>
+</channels>
